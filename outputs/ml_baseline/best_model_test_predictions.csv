@@ -1,0 +1,609 @@
+node_index,node_id,entity_type,canonical_text,mention_count,degree,true_encoded_label,predicted_encoded_label,predicted_entity_type,correct_prediction
+2979,location::contact,location,contact,1,0,15,19,vulnerability,False
+1439,SOFTWARE::hulu,SOFTWARE,hulu,1,0,9,15,location,False
+259,FILEPATH::czbwzitpzjzkcvkrirybzihsibmuejjsp,FILEPATH,czbwzitpzjzkcvkrirybzihsibmuejjsp,1,0,2,3,IPV4,False
+3232,malware::agent tesla,malware,agent tesla,2,0,16,11,URL,False
+3028,location::gold,location,gold,1,0,15,13,campaign,False
+2450,attack-pattern::web shell infection,attack-pattern,web shell infection,1,0,12,5,MD5,False
+475,FILEPATH::wscriptexe,FILEPATH,wscriptexe,1,0,2,5,MD5,False
+3616,malware::worminfokeya,malware,worminfokeya,1,3,16,9,SOFTWARE,False
+3656,threat-actor::cron,threat-actor,cron,3,0,17,10,TIME,False
+506,IPV4::11914514856,IPV4,11914514856,1,0,3,19,vulnerability,False
+2779,identity::royce lu,identity,royce lu,1,0,14,3,IPV4,False
+3823,tools::gatekeeper,tools,gatekeeper,1,0,18,17,threat-actor,False
+583,IPV4::21320056[]105,IPV4,21320056[]105,2,0,3,18,tools,False
+32,DOMAIN::digitalemailsoftwaregreatsite[]net,DOMAIN,digitalemailsoftwaregreatsite[]net,1,0,0,2,FILEPATH,False
+689,MD5::ad6783c349e98c2b4a8ce0b5c9207611309adca7,MD5,ad6783c349e98c2b4a8ce0b5c9207611309adca7,1,0,5,13,campaign,False
+2763,identity::privatbank,identity,privatbank,1,0,14,12,attack-pattern,False
+3807,tools::cuckoo,tools,cuckoo,1,0,18,19,vulnerability,False
+2950,location::brazil,location,brazil,1,0,15,13,campaign,False
+1397,SOFTWARE::excel,SOFTWARE,excel,3,0,9,2,FILEPATH,False
+1376,SOFTWARE::cortex xdr agent 75,SOFTWARE,cortex xdr agent,2,0,9,16,malware,False
+3380,malware::grand stealer,malware,grand stealer,1,0,16,2,FILEPATH,False
+1289,SOFTWARE::alipay,SOFTWARE,alipay,1,0,9,10,TIME,False
+1519,SOFTWARE::mojave,SOFTWARE,mojave,1,0,9,6,REGISTRYKEY,False
+984,SHA2::3fd45b9b33ff5b6363ba0013178572723b0a912deb8235a951aa3f0aa3142509,SHA2,3fd45b9b33ff5b6363ba0013178572723b0a912deb8235a951aa3f0aa3142509,2,0,8,7,SHA1,False
+3351,malware::enemybot,malware,enemybot,4,4,16,19,vulnerability,False
+3461,malware::nsis,malware,nsis,15,0,16,7,SHA1,False
+4001,vulnerability::five zeroday vulnerabilities,vulnerability,zeroday vulnerabilities,5,6,19,17,threat-actor,False
+3331,malware::daserf,malware,daserf,1,0,16,14,identity,False
+482,FILEPATH::xtxt,FILEPATH,xtxt,1,0,2,2,FILEPATH,True
+79,DOMAIN::nco2[]live,DOMAIN,nco2[]live,1,0,0,15,location,False
+3794,tools::cassandra (cyax),tools,cassandra (cyax),1,0,18,10,TIME,False
+3151,location::ransom,location,ransom,5,0,15,7,SHA1,False
+2209,attack-pattern::fingerprinting,attack-pattern,fingerprinting,6,0,12,14,identity,False
+1882,TIME::last march,TIME,last march,1,0,10,3,IPV4,False
+3845,tools::mega client,tools,mega client,1,1,18,17,threat-actor,False
+3526,malware::senna spy rock in rio 2001,malware,senna spy rock in rio 2001,1,0,16,13,campaign,False
+2361,attack-pattern::scheduled task [t1053005],attack-pattern,scheduled task [t1053005],1,0,12,5,MD5,False
+1494,SOFTWARE::microsoft defender for endpoint,SOFTWARE,microsoft defender for endpoint,1,0,9,5,MD5,False
+3795,tools::cassandra crypter,tools,cassandra crypter,3,0,18,2,FILEPATH,False
+1245,SHA2::efe541889f3da7672398d7ad00b8243e94d13cc3254ed59cd547ad172c1aa4be,SHA2,efe541889f3da7672398d7ad00b8243e94d13cc3254ed59cd547ad172c1aa4be,1,0,8,7,SHA1,False
+299,FILEPATH::getwechatdbtxt,FILEPATH,getwechatdbtxt,1,0,2,0,DOMAIN,False
+90,DOMAIN::pmogovpk[]email,DOMAIN,pmogovpk[]email,1,0,0,5,MD5,False
+1617,SOFTWARE::threat prevention,SOFTWARE,threat prevention,1,0,9,19,vulnerability,False
+2845,identity::ukrainian government,identity,ukrainian government,3,0,14,4,Infrastucture,False
+2662,identity::house of representatives,identity,house of representatives,1,0,14,18,tools,False
+294,FILEPATH::flashplayerinstallcnexe,FILEPATH,flashplayerppinstallcnexe,4,4,2,8,SHA2,False
+2453,attack-pattern::windows admin shares,attack-pattern,windows admin shares,1,0,12,4,Infrastucture,False
+2924,location::alert,location,alert,2,0,15,5,MD5,False
+580,IPV4::21123389182,IPV4,21123389182,1,0,3,8,SHA2,False
+471,FILEPATH::winwordexe,FILEPATH,winwordexe,2,0,2,5,MD5,False
+899,SHA2::0b16dfa3e0bbcc7b04a9a43309e911059a4d8c5892b1068e0441b177960d3eee,SHA2,0b16dfa3e0bbcc7b04a9a43309e911059a4d8c5892b1068e0441b177960d3eee,1,0,8,5,MD5,False
+1653,SOFTWARE::vbscript,SOFTWARE,vbscript,1,0,9,3,IPV4,False
+497,IPV4::10916989103,IPV4,10916989103,1,0,3,0,DOMAIN,False
+448,FILEPATH::user32dll,FILEPATH,user32dll,1,0,2,18,tools,False
+2749,identity::palo alto networks unit 42,identity,palo alto networks unit 42,3,0,14,5,MD5,False
+3741,threat-actor::sofacy,threat-actor,sofacy,3,1,17,19,vulnerability,False
+3022,location::gaming,location,gaming,1,0,15,5,MD5,False
+2792,identity::scott simkin,identity,scott simkin,1,0,14,10,TIME,False
+3464,malware::obliquerat,malware,obliquerat,9,0,16,6,REGISTRYKEY,False
+933,SHA2::2243c10b1bd64dfb55eda08bc8b85610d7fa5ba759527b4b4dd16dfac584ef25,SHA2,2243c10b1bd64dfb55eda08bc8b85610d7fa5ba759527b4b4dd16dfac584ef25,1,0,8,19,vulnerability,False
+3160,location::safe,location,safe,5,0,15,8,SHA2,False
+854,SHA1::dea5c564c9d961ccf2ed535139fbfca4f1727373504f2972ac92acfaf21da831,SHA1,dea5c564c9d961ccf2ed535139fbfca4f1727373504f2972ac92acfaf21da831,1,0,7,19,vulnerability,False
+267,FILEPATH::dnuurzjtlbjrnuukwdmaltqrqqlaigjsp,FILEPATH,dnuurzjtlbjrnuukwdmaltqrqqlaigjsp,1,0,2,11,URL,False
+354,FILEPATH::newsexe,FILEPATH,newsexe,1,2,2,8,SHA2,False
+555,IPV4::185[]117[]88[]91,IPV4,185[]117[]88[]91,1,0,3,13,campaign,False
+3894,tools::sharphound,tools,sharphound,1,0,18,9,SOFTWARE,False
+279,FILEPATH::etcissue,FILEPATH,etcissue,1,0,2,11,URL,False
+3932,tools::xmrig,tools,xmrig,5,0,18,3,IPV4,False
+2975,location::cloud,location,cloud,22,0,15,15,location,True
+1053,SHA2::6ee8f6a0c514a5bd25f7a32210f4b3fe878d9d417a7ebe07befc285131bae10e,SHA2,6ee8f6a0c514a5bd25f7a32210f4b3fe878d9d417a7ebe07befc285131bae10e,1,2,8,2,FILEPATH,False
+819,SHA1::93ce211a71867017723cd78969aa4cac9d21c3d8f72c96ee3e1b2712c0eea494,SHA1,93ce211a71867017723cd78969aa4cac9d21c3d8f72c96ee3e1b2712c0eea494,1,0,7,19,vulnerability,False
+1260,SHA2::fa1d70b6b5b1a5e478c7d9d840aae0cc23d80476d9eea884a73d1b7e3926a209,SHA2,fa1d70b6b5b1a5e478c7d9d840aae0cc23d80476d9eea884a73d1b7e3926a209,1,2,8,8,SHA2,True
+530,IPV4::162253124[]162,IPV4,162253124[]162,1,0,3,16,malware,False
+3773,threat-actor::winnti group,threat-actor,winnti group,8,4,17,13,campaign,False
+559,IPV4::185[]25[]51[]116,IPV4,185[]25[]51[]116,1,0,3,19,vulnerability,False
+2333,attack-pattern::purchasing access,attack-pattern,purchasing access,1,0,12,9,SOFTWARE,False
+2694,identity::mark nunnikhoven,identity,mark nunnikhoven,2,1,14,5,MD5,False
+3419,malware::lurk,malware,lurk,8,0,16,13,campaign,False
+1477,SOFTWARE::macos catalina,SOFTWARE,macos catalina,1,1,9,10,TIME,False
+3370,malware::gafgyt dropper,malware,gafgyt dropper,1,1,16,12,attack-pattern,False
+2395,attack-pattern::ssrf,attack-pattern,ssrf,1,0,12,15,location,False
+665,MD5::2726c6aea9970bb95211304705b5f595,MD5,2726c6aea9970bb95211304705b5f595,2,0,5,13,campaign,False
+1388,SOFTWARE::docker,SOFTWARE,docker,1,0,9,9,SOFTWARE,True
+730,SHA1::030b4525558f2c411f972d91b144870b388380b59372e1798926cc2958242863,SHA1,030b4525558f2c411f972d91b144870b388380b59372e1798926cc2958242863,1,0,7,0,DOMAIN,False
+2470,campaign::campaigns,campaign,campaigns,1,2,13,17,threat-actor,False
+3805,tools::cortex xdr,tools,cortex xdr,3,0,18,10,TIME,False
+288,FILEPATH::fileszip,FILEPATH,fileszip,1,2,2,3,IPV4,False
+674,MD5::61d846708f50024e1c65237eb7158beac9b9c5840853b03ef7c73fe5293a9a8d,MD5,61d846708f50024e1c65237eb7158beac9b9c5840853b03ef7c73fe5293a9a8d,1,0,5,10,TIME,False
+3167,location::shell,location,shell,16,0,15,7,SHA1,False
+1476,SOFTWARE::macos,SOFTWARE,macos,5,0,9,11,URL,False
+4029,vulnerability::proxylogon zeroday vulnerability,vulnerability,proxylogon zeroday vulnerability,1,0,19,17,threat-actor,False
+886,SHA2::05d1c273a4caeae787b2c3faf381b5480b27d836cd6e41266f3eb505dcee6186,SHA2,05d1c273a4caeae787b2c3faf381b5480b27d836cd6e41266f3eb505dcee6186,1,0,8,2,FILEPATH,False
+2907,location::1789,location,1789,1,0,15,19,vulnerability,False
+3593,malware::vidar,malware,vidar,2,1,16,16,malware,True
+14,DOMAIN::bpsrhk[]osscnhongkong[]aliyuncs[]com,DOMAIN,bpsrhk[]osscnhongkong[]aliyuncs[]com,1,0,0,10,TIME,False
+3829,tools::hacktoolwin32mimikatzcnfw,tools,hacktoolwin32mimikatzcnfw,1,0,18,9,SOFTWARE,False
+3889,tools::sendgrid,tools,sendgrid,2,1,18,16,malware,False
+2795,identity::senior director of google’s threat analysis group (tag),identity,senior director of google’s threat analysis group (tag),1,0,14,10,TIME,False
+88,DOMAIN::pikrpro[]eu,DOMAIN,pikrpro[]eu,3,0,0,0,DOMAIN,True
+1733,TIME::13:00 utc on june 28th,TIME,13:00 utc on june 28th,1,0,10,16,malware,False
+2625,identity::facebook security team,identity,facebook security team,1,0,14,13,campaign,False
+2733,identity::online gambling companies,identity,online gambling companies,1,2,14,12,attack-pattern,False
+3619,malware::xxmm,malware,xxmm,4,0,16,8,SHA2,False
+1106,SHA2::940265867d5668956d64adf9fc4b9c6cf9e7fcfcf5c21ba7bf0bea77b5edd047,SHA2,940265867d5668956d64adf9fc4b9c6cf9e7fcfcf5c21ba7bf0bea77b5edd047,1,0,8,13,campaign,False
+484,FILEPATH::yizhisignedexe,FILEPATH,yizhisignedexe,1,0,2,13,campaign,False
+3971,vulnerability::cve20200688,vulnerability,cve20200688,3,3,19,0,DOMAIN,False
+1147,SHA2::b22946cfefe8646cb034f358c68caae5f30c1cf316cffeaf77021c099e362c64,SHA2,b22946cfefe8646cb034f358c68caae5f30c1cf316cffeaf77021c099e362c64,1,0,8,13,campaign,False
+621,IPV4::66[]42[]37[]101,IPV4,66[]42[]37[]101,3,0,3,18,tools,False
+3746,threat-actor::strontium,threat-actor,strontium,1,2,17,15,location,False
+1201,SHA2::d65f809f7684b28a6fa2d9397582f350318027999be3acf1241ff44d4df36a3a,SHA2,d65f809f7684b28a6fa2d9397582f350318027999be3acf1241ff44d4df36a3a,1,0,8,19,vulnerability,False
+634,IPV4::9225585[]173,IPV4,9225585[]173,1,0,3,3,IPV4,True
+1195,SHA2::ce11703def517306326c48a67a7c859a3de0f18e2451df226ce171389a5b7953,SHA2,ce11703def517306326c48a67a7c859a3de0f18e2451df226ce171389a5b7953,1,1,8,16,malware,False
+1864,TIME::june,TIME,june,5,0,10,8,SHA2,False
+673,MD5::55684a30a47476fce5b42cbd59add4b0fbc776a3,MD5,55684a30a47476fce5b42cbd59add4b0fbc776a3,1,0,5,17,threat-actor,False
+3501,malware::ransomwin32avoslockersmyxblnt,malware,ransomwin32avoslockersmyxblnt,1,1,16,10,TIME,False
+1390,SOFTWARE::ecommerce website,SOFTWARE,ecommerce websites,2,0,9,0,DOMAIN,False
+2725,identity::newegg,identity,newegg,1,0,14,7,SHA1,False
+1808,TIME::august 2016,TIME,august 2015,8,0,10,3,IPV4,False
+1134,SHA2::a7e9e2bec3ad283a9a0b130034e822c8b6dfd26dda855f883a3a4ff785514f97,SHA2,a7e9e2bec3ad283a9a0b130034e822c8b6dfd26dda855f883a3a4ff785514f97,2,2,8,16,malware,False
+2269,attack-pattern::malicious downloads,attack-pattern,malicious downloader,3,0,12,0,DOMAIN,False
+3297,malware::chches,malware,chches,3,0,16,0,DOMAIN,False
+3743,threat-actor::sofacy threat actor group,threat-actor,sofacy threat actor group,1,1,17,9,SOFTWARE,False
+3604,malware::wannacrypt,malware,wannacrypt,1,0,16,18,tools,False
+437,FILEPATH::tomcatwajsp,FILEPATH,tomcatwarjsp,5,0,2,19,vulnerability,False
+2381,attack-pattern::software packing,attack-pattern,software packing,1,0,12,5,MD5,False
+92,DOMAIN::probivcc,DOMAIN,probivcc,1,0,0,13,campaign,False
+3067,location::latam,location,latam,1,0,15,9,SOFTWARE,False
+180,FILEPATH::[mstsgu]pdf,FILEPATH,[mstsgu]pdf,1,0,2,18,tools,False
+3416,malware::lockbit 30,malware,lockbit 20,21,3,16,14,identity,False
+2053,attack-pattern::0day exploit,attack-pattern,0day exploit,2,0,12,5,MD5,False
+3837,tools::impacket,tools,impacket,4,2,18,2,FILEPATH,False
+2801,"identity::shane huntley, senior director of google’s threat analysis group (tag)",identity,"shane huntley, senior director of google’s threat analysis group (tag)",1,0,14,11,URL,False
+2120,attack-pattern::crosssite scripting (xss) attack,attack-pattern,crosssite scripting (xss) attack,1,0,12,13,campaign,False
+2919,location::4837,location,4837,3,0,15,11,URL,False
+2622,identity::erik boasson,identity,erik boasson,1,0,14,11,URL,False
+3457,malware::nflog,malware,nflog,3,1,16,3,IPV4,False
+1555,SOFTWARE::palo alto networks wildfire,SOFTWARE,palo alto networks wildfire,2,0,9,10,TIME,False
+691,MD5::b826fb1253a52a3b53afa3b7543d7694,MD5,b826fb1253a52a3b53afa3b7543d7694,1,1,5,0,DOMAIN,False
+827,SHA1::a5ad3355f55e1a15baefea83ce81d038531af516f47716018b1dedf04f081f15,SHA1,a5ad3355f55e1a15baefea83ce81d038531af516f47716018b1dedf04f081f15,1,0,7,5,MD5,False
+590,IPV4::34195122[]225,IPV4,34195122[]225,1,0,3,5,MD5,False
+151,EMAIL::wowsmith123456@posteo[]net,EMAIL,wowsmith123456@posteo[]net,1,0,1,19,vulnerability,False
+986,SHA2::41ee0ab77b474b0c84a1c25591029533f058e4454d9f83ba30159cc6309c65d1,SHA2,41ee0ab77b474b0c84a1c25591029533f058e4454d9f83ba30159cc6309c65d1,1,0,8,16,malware,False
+3261,malware::backdoorwin32remcosusmaneagdz,malware,backdoorwin32remcosusmaneagdz,1,0,16,15,location,False
+912,SHA2::0f8a87ca5f94949904804442c1a0651f99ba17ecf989f46a3b2fde8de455c4a4,SHA2,0f8a87ca5f94949904804442c1a0651f99ba17ecf989f46a3b2fde8de455c4a4,1,2,8,8,SHA2,True
+901,SHA2::0b94e123f6586967819fa247cdd58779b1120ef93fa1ea1de70dffc898054a09,SHA2,0b94e123f6586967819fa247cdd58779b1120ef93fa1ea1de70dffc898054a09,2,0,8,13,campaign,False
+1018,SHA2::53402b662679f0bfd08de3abb064930af40ff6c9ec95469ce8489f65796e36c3,SHA2,53402b662679f0bfd08de3abb064930af40ff6c9ec95469ce8489f65796e36c3,1,0,8,13,campaign,False
+2649,identity::government and military organizations,identity,government and military organizations,1,1,14,11,URL,False
+3123,location::opera,location,opera,1,0,15,3,IPV4,False
+3610,malware::wildfire,malware,wildfire,6,1,16,3,IPV4,False
+1631,SOFTWARE::trend micro vision one workbench,SOFTWARE,trend micro vision one workbench,1,0,9,13,campaign,False
+2410,attack-pattern::stolen certificates,attack-pattern,stolen certificates,1,1,12,13,campaign,False
+3548,malware::stop,malware,stop,13,0,16,3,IPV4,False
+398,FILEPATH::sdcarddcim,FILEPATH,sdcarddcim,1,0,2,14,identity,False
+2340,attack-pattern::remote access software [t1219],attack-pattern,remote access software [t1219],1,0,12,8,SHA2,False
+247,FILEPATH::checkexploitjsp,FILEPATH,checkexploitjsp,2,0,2,0,DOMAIN,False
+2416,attack-pattern::system network configuration discovery [t1016],attack-pattern,system network configuration discovery,3,0,12,17,threat-actor,False
+3437,malware::microbackdoor,malware,microbackdoor,3,1,16,17,threat-actor,False
+2969,location::china,location,china,12,4,15,12,attack-pattern,False
+1633,SOFTWARE::trend micro web service communicator,SOFTWARE,trend micro web service communicator,1,0,9,10,TIME,False
+2753,identity::pangu lab,identity,pangu lab,1,0,14,13,campaign,False
+752,SHA1::2060f1e108f5feb5790320c38931e3dc6c7224edf925bf6f1840351578bbf9cc,SHA1,2060f1e108f5feb5790320c38931e3dc6c7224edf925bf6f1840351578bbf9cc,1,0,7,4,Infrastucture,False
+237,FILEPATH::c:\windows\system32\comsvcsdll,FILEPATH,c:\windows\system32\comsvcsdll,1,0,2,0,DOMAIN,False
+2254,attack-pattern::launchctl,attack-pattern,launchctl,2,0,12,7,SHA1,False
+3065,location::landing,location,landing,12,0,15,13,campaign,False
+1287,SOFTWARE::advanced protection,SOFTWARE,advanced protection,1,0,9,12,attack-pattern,False
+2882,identity::watchguard,identity,watchguard,3,0,14,7,SHA1,False
+1252,SHA2::f21decb19da8d8c07066a78839ffd8af6721b1f4323f10a1df030325a1a5e159,SHA2,f21decb19da8d8c07066a78839ffd8af6721b1f4323f10a1df030325a1a5e159,1,2,8,2,FILEPATH,False
+943,SHA2::2791fdc54ee037589f951c718935397e43d5f3d5f8e078e8b1e81165a3aebbaf,SHA2,2791fdc54ee037589f951c718935397e43d5f3d5f8e078e8b1e81165a3aebbaf,1,0,8,3,IPV4,False
+2593,identity::cybercrime investigation group,identity,cybercrime investigation group,3,0,14,9,SOFTWARE,False
+3399,malware::infostealer,malware,infostealer,1,1,16,18,tools,False
+244,FILEPATH::cbsewlaeqsdsqktavziakyzsuwfciujsp,FILEPATH,cbsewlaeqsdsqktavziakyzsuwfciujsp,1,0,2,3,IPV4,False
+4038,vulnerability::spring4shell,vulnerability,springshell,15,4,19,9,SOFTWARE,False
+2922,location::afghanistan,location,afghanistan,9,0,15,13,campaign,False
+1440,SOFTWARE::hybrid analysis,SOFTWARE,hybrid analysis,1,0,9,9,SOFTWARE,True
+1861,TIME::july 2021,TIME,july 2021,3,0,10,19,vulnerability,False
+2598,identity::daho national laboratory (inl),identity,daho national laboratory (inl),1,0,14,8,SHA2,False
+1543,SOFTWARE::oracle web logic server,SOFTWARE,oracle web logic server,1,0,9,5,MD5,False
+1566,SOFTWARE::prisma cloud,SOFTWARE,prisma cloud,5,0,9,11,URL,False
+2824,identity::transportation,identity,transportation,1,1,14,15,location,False
+2635,identity::foundation for defense of democracies,identity,foundation for defense of democracies,1,0,14,10,TIME,False
+2747,identity::palo alto networks product security assurance team,identity,palo alto networks product security assurance team,1,0,14,5,MD5,False
+3187,location::structure,location,structure,2,0,15,19,vulnerability,False
+1639,SOFTWARE::trend micro™ mobile security for android™,SOFTWARE,trend micro™ mobile security for android™,1,0,9,14,identity,False
+2892,identity::x4kme,identity,x4kme,1,1,14,15,location,False
+23,DOMAIN::cnicupdate[]com,DOMAIN,cnicupdate[]com,1,0,0,5,MD5,False
+2982,location::council,location,council,3,0,15,19,vulnerability,False
+392,FILEPATH::sc3txt,FILEPATH,sc3txt,2,1,2,8,SHA2,False
+775,SHA1::40a251184bb680edadfa9778a37135227e4191163882ccf170835e0658b1e0ed,SHA1,40a251184bb680edadfa9778a37135227e4191163882ccf170835e0658b1e0ed,1,0,7,18,tools,False
+1578,SOFTWARE::robot operating system 2 (ros 2),SOFTWARE,robot operating system 2 (ros 2),1,0,9,18,tools,False
+1980,URL::http:lioiamcount[]com,URL,http:lioiamcount[]com,3,0,11,5,MD5,False
+2128,attack-pattern::ddos,attack-pattern,ddos,7,1,12,7,SHA1,False
+893,SHA2::07e1baf1d0207a139bcf39c60354666496e4331381d36eef9359120b1d8497f1,SHA2,07e1baf1d0207a139bcf39c60354666496e4331381d36eef9359120b1d8497f1,1,0,8,3,IPV4,False
+1304,SOFTWARE::angry birds,SOFTWARE,angry birds,1,0,9,19,vulnerability,False
+645,Infrastucture::dyre c2 servers,Infrastucture,dyre c2 servers,1,0,4,16,malware,False
+1897,"TIME::march 25, 2022, at 8:30 am pt",TIME,"march 25, 2022, at 8:30 am pt",1,0,10,11,URL,False
+770,SHA1::38acf26161a2c6429ee40d9b70d8419a9bd00eaa8740d221f943cea3229372dd,SHA1,38acf26161a2c6429ee40d9b70d8419a9bd00eaa8740d221f943cea3229372dd,1,0,7,5,MD5,False
+1762,TIME::2021004,TIME,2021004,1,0,10,9,SOFTWARE,False
+485,FILEPATH::yjjhhdlxepozhirznemjabnsciycvvjsp,FILEPATH,yjjhhdlxepozhirznemjabnsciycvvjsp,1,0,2,7,SHA1,False
+1284,SOFTWARE::adobe flash,SOFTWARE,adobe flash,9,2,9,14,identity,False
+3853,tools::mshta,tools,mshta,1,0,18,0,DOMAIN,False
+1788,TIME::april,TIME,april,5,0,10,8,SHA2,False
+1405,SOFTWARE::flash,SOFTWARE,flash,8,0,9,6,REGISTRYKEY,False
+277,FILEPATH::etcgroup,FILEPATH,etcgroup,1,0,2,0,DOMAIN,False
+877,SHA2::00b761bce25594da4c760574d224589daf01086c5637042982767a13a2f61bea,SHA2,00b761bce25594da4c760574d224589daf01086c5637042982767a13a2f61bea,1,0,8,16,malware,False
+3634,threat-actor::avaddon,threat-actor,avaddon,2,0,17,14,identity,False
+3867,tools::osxoceanlotusd,tools,osxoceanlotusd,2,0,18,13,campaign,False
+2479,campaign::dark seoul,campaign,dark seoul,1,0,13,17,threat-actor,False
+1336,SOFTWARE::azure services,SOFTWARE,azure services,1,0,9,8,SHA2,False
+3226,malware::2013 – 2018,malware,2013 – 2018,1,0,16,0,DOMAIN,False
+1924,TIME::mid2021,TIME,mid2021,1,0,10,18,tools,False
+316,FILEPATH::javatestfilajsp,FILEPATH,javatestfilajsp,2,0,2,4,Infrastucture,False
+434,FILEPATH::tomcatexe,FILEPATH,tomcatexe,1,0,2,2,FILEPATH,True
+3704,threat-actor::lurk,threat-actor,lurk,5,0,17,0,DOMAIN,False
+2328,attack-pattern::process discovery [t1057],attack-pattern,process discovery [t1057],2,0,12,7,SHA1,False
+3785,tools::aswarpot,tools,aswarpot,1,1,18,3,IPV4,False
+3130,location::palestinian,location,palestinian,1,0,15,7,SHA1,False
+2945,location::best,location,best,5,0,15,2,FILEPATH,False
+2042,URL::hxxps:miakhalifagame[]comtestinn[]php,URL,hxxps:miakhalifagame[]comtestinn[]php,1,0,11,16,malware,False
+2104,attack-pattern::compromised user’s privileges,attack-pattern,compromised user’s privileges,1,0,12,3,IPV4,False
+2540,identity::aws,identity,aws,6,0,14,12,attack-pattern,False
+3802,tools::cobalt strike beacons,tools,cobalt strike beacons,1,0,18,14,identity,False
+577,IPV4::2018767[]224,IPV4,2018767[]224,1,0,3,15,location,False
+1311,SOFTWARE::apache struts versions 23 to 2334 and 25 to 2516,SOFTWARE,apache struts versions 23 to 2334 and 25 to 2516,1,2,9,10,TIME,False
+1239,SHA2::ed5e1d6e914de64a203f2f32ab95176fc7efff3a520915971d5fe748e79d611c,SHA2,ed5e1d6e914de64a203f2f32ab95176fc7efff3a520915971d5fe748e79d611c,1,0,8,11,URL,False
+121,DOMAIN::verifyserviceactivity[]site,DOMAIN,verifyserviceactivity[]site,1,0,0,15,location,False
+956,SHA2::30a65a54acfbf8d412ade728cad86c5c769befa4e456f7c0e552e1ab0862a446,SHA2,30a65a54acfbf8d412ade728cad86c5c769befa4e456f7c0e552e1ab0862a446,1,2,8,8,SHA2,True
+2220,attack-pattern::highly obfuscated powershell script,attack-pattern,highly obfuscated powershell script,1,2,12,10,TIME,False
+3626,threat-actor::apt28,threat-actor,apt28,10,6,17,17,threat-actor,True
+3556,malware::sysget files,malware,sysget files,1,1,16,12,attack-pattern,False
+2559,identity::certua,identity,certua,6,0,14,3,IPV4,False
+352,FILEPATH::myshelljsp,FILEPATH,myshelljsp,2,0,2,0,DOMAIN,False
+3810,tools::cyaxsharp,tools,cyaxsharp,4,0,18,13,campaign,False
+1219,SHA2::e047aa878f9e7a55a80cc1b70d0ac9840251691e91ab6454562afbff427b0879,SHA2,e047aa878f9e7a55a80cc1b70d0ac9840251691e91ab6454562afbff427b0879,1,0,8,14,identity,False
+1317,SOFTWARE::asteppay,SOFTWARE,asteppay,1,0,9,2,FILEPATH,False
+957,SHA2::30ccfbf24b7c8cc15f85541d5ec18feb0e19e75e1e4d2bca9941e6585dad7bc7,SHA2,30ccfbf24b7c8cc15f85541d5ec18feb0e19e75e1e4d2bca9941e6585dad7bc7,2,3,8,2,FILEPATH,False
+2683,identity::keven beaumont,identity,keven beaumont,1,0,14,11,URL,False
+2467,campaign::blackgear’s latest campaign,campaign,blackgear’s latest campaign,1,2,13,9,SOFTWARE,False
+1356,SOFTWARE::censys,SOFTWARE,censys,1,0,9,7,SHA1,False
+1899,"TIME::march 30, 2022",TIME,"march 31, 2022",3,0,10,13,campaign,False
+1384,SOFTWARE::data distribution service (dds),SOFTWARE,data distribution service (dds),1,0,9,13,campaign,False
+3482,malware::plead,malware,plead,15,0,16,17,threat-actor,False
+3392,malware::hworm,malware,hworm,2,2,16,7,SHA1,False
+2900,identity::zde,identity,zde,1,1,14,4,Infrastucture,False
+3005,location::emea,location,emea,4,0,15,19,vulnerability,False
+1138,SHA2::ab7c1967bf1fefdffde93626b78eb30994655ab02f59e0adb0935e3e599a953f,SHA2,ab7c1967bf1fefdffde93626b78eb30994655ab02f59e0adb0935e3e599a953f,1,0,8,0,DOMAIN,False
+1521,SOFTWARE::monero (xmr),SOFTWARE,monero (xmr),1,0,9,19,vulnerability,False
+1585,SOFTWARE::salsa20,SOFTWARE,salsa20,1,0,9,9,SOFTWARE,True
+3597,malware::virtualgirlfriendcrx,malware,virtualgirlfriendcrx,1,0,16,15,location,False
+2562,identity::chinese government,identity,chinese government,1,0,14,15,location,False
+2803,identity::solarwinds,identity,solarwinds,1,0,14,0,DOMAIN,False
+2180,attack-pattern::execution guardrails t1574002,attack-pattern,execution guardrails t1574002,1,0,12,12,attack-pattern,True
+1344,SOFTWARE::bitcoin (btc),SOFTWARE,bitcoin (btc),2,0,9,6,REGISTRYKEY,False
+883,SHA2::03d0e7ad4c12273a42e4c95d854408b98b0cf5ecf5f8c5ce05b24729b6f4e369,SHA2,03d0e7ad4c12273a42e4c95d854408b98b0cf5ecf5f8c5ce05b24729b6f4e369,4,0,8,3,IPV4,False
+474,FILEPATH::writeupsconfluencercemd,FILEPATH,writeupsconfluencercemd,1,0,2,11,URL,False
+3765,threat-actor::unnamed group,threat-actor,unnamed group,1,0,17,19,vulnerability,False
+3974,vulnerability::cve202017049,vulnerability,cve202017049,1,1,19,15,location,False
+1741,TIME::2006,TIME,2006,1,0,10,13,campaign,False
+187,FILEPATH::adobeexe,FILEPATH,adobeexe,2,0,2,17,threat-actor,False
+232,FILEPATH::c:\users\public\downloads\samhive,FILEPATH,c:\users\public\downloads\samhive,1,0,2,14,identity,False
+2165,attack-pattern::dynamic data exchange,attack-pattern,dynamic data exchange,1,0,12,3,IPV4,False
+406,FILEPATH::shei1jsp,FILEPATH,shei1jsp,1,0,2,5,MD5,False
+3850,tools::minidump,tools,minidump,1,0,18,18,tools,True
+3709,threat-actor::muddywater,threat-actor,muddywater,8,0,17,12,attack-pattern,False
+312,FILEPATH::installutilexe,FILEPATH,installutilexe,3,0,2,10,TIME,False
+1075,SHA2::795ae4097aa3bd5932be4110f6bd992f46d605d4c9e3afced314454d35395a59,SHA2,795ae4097aa3bd5932be4110f6bd992f46d605d4c9e3afced314454d35395a59,1,1,8,16,malware,False
+835,SHA1::b1a0d0508ee932bbf91625330d2136f33344ed70cb25f7e64be0620d32c4b9e2,SHA1,b1a0d0508ee932bbf91625330d2136f33344ed70cb25f7e64be0620d32c4b9e2,1,1,7,3,IPV4,False
+3141,location::pop,location,pop,1,0,15,13,campaign,False
+3263,malware::backoff point of sale (pos),malware,backoff point of sale (pos),1,0,16,11,URL,False
+4022,vulnerability::octobercms vulnerability,vulnerability,octobercms vulnerability,3,1,19,5,MD5,False
+2633,identity::fireeye,identity,fireeye,1,0,14,11,URL,False
+2608,identity::dlink,identity,adlink,3,1,14,11,URL,False
+1427,SOFTWARE::google play protect,SOFTWARE,google play protect,3,0,9,12,attack-pattern,False
+3346,malware::dyre banking trojan,malware,dyre banking trojan,2,0,16,3,IPV4,False
+2133,attack-pattern::deleting files,attack-pattern,deleting files,1,1,12,11,URL,False
+330,FILEPATH::libdat,FILEPATH,libdat,1,0,2,0,DOMAIN,False
+1120,SHA2::9d10911a7bbf26f58b5e39342540761885422b878617f864bfdb16195b7cd0f5,SHA2,9d10911a7bbf26f58b5e39342540761885422b878617f864bfdb16195b7cd0f5,1,0,8,0,DOMAIN,False
+1235,SHA2::e9be71848d1faa0c41db4c6a1e901747d98fb0b3cca027f8be85ea5e339b75e3,SHA2,e9be71848d1faa0c41db4c6a1e901747d98fb0b3cca027f8be85ea5e339b75e3,1,1,8,2,FILEPATH,False
+2952,location::buy,location,buy,1,0,15,14,identity,False
+3317,malware::crimson rat,malware,crimson rat,10,0,16,0,DOMAIN,False
+418,FILEPATH::stxt,FILEPATH,stxt,1,0,2,16,malware,False
+1507,SOFTWARE::microsoft secure channel (aka schannel),SOFTWARE,microsoft secure channel (aka schannel),1,0,9,19,vulnerability,False
+322,FILEPATH::kqbnngrfnsxlreajyknuimoamysvwtjsp,FILEPATH,kqbnngrfnsxlreajyknuimoamysvwtjsp,1,0,2,11,URL,False
+2196,attack-pattern::external remote services [t1133],attack-pattern,external remote services [t1133],1,0,12,3,IPV4,False
+2817,identity::think tanks,identity,think tanks,1,1,14,17,threat-actor,False
+323,FILEPATH::lalalalaljsp,FILEPATH,lalalalaljsp,1,0,2,19,vulnerability,False
+2929,location::argentinian,location,argentinian,1,2,15,14,identity,False
+1950,"TIME::sept 23, 2021",TIME,"sept 23, 2021",1,0,10,0,DOMAIN,False
+2772,identity::rainer vosseler,identity,rainer vosseler,1,0,14,5,MD5,False
+2663,identity::huawei,identity,huawei,1,1,14,2,FILEPATH,False
+2063,attack-pattern::access call log,attack-pattern,access call log,1,0,12,18,tools,False
+3275,malware::biopass rat binary (pyinstaller),malware,biopass rat binary (pyinstaller),1,1,16,0,DOMAIN,False
+982,SHA2::3eb1a41c86b3846d33515536c760e98f5cf0a741c682227065cbafea9d350806,SHA2,3eb1a41c86b3846d33515536c760e98f5cf0a741c682227065cbafea9d350806,1,0,8,4,Infrastucture,False
+992,SHA2::43fbda74a65668333727c6512562db4f9e712cf1d5ad9dca8f06ae51bb937ba2,SHA2,43fbda74a65668333727c6512562db4f9e712cf1d5ad9dca8f06ae51bb937ba2,1,0,8,15,location,False
+3972,vulnerability::cve20200796,vulnerability,cve20200796,1,0,19,7,SHA1,False
+1099,SHA2::8ff11efc1109073fdc49be93e1d100992314fd68ecdff2ba986107602ce75089,SHA2,8ff11efc1109073fdc49be93e1d100992314fd68ecdff2ba986107602ce75089,1,0,8,17,threat-actor,False
+3555,malware::sysget,malware,sysget,11,3,16,17,threat-actor,False
+2549,identity::bluebox,identity,bluebox,1,0,14,11,URL,False
+3001,location::echo,location,echo,4,0,15,15,location,True
+1421,SOFTWARE::google chrome,SOFTWARE,google chrome,2,0,9,2,FILEPATH,False
+2831,identity::trustedsec,identity,trustedsec,2,0,14,2,FILEPATH,False
+444,FILEPATH::ujpmauuhltvsokjracgwkbflkhhnwojsp,FILEPATH,ujpmauuhltvsokjracgwkbflkhhnwojsp,1,0,2,6,REGISTRYKEY,False
+414,FILEPATH::ssexe,FILEPATH,ssexe,1,1,2,12,attack-pattern,False
+2703,identity::microsoft’,identity,microsoft,101,0,14,11,URL,False
+1944,TIME::q1 2022,TIME,q1 2022,1,0,10,19,vulnerability,False
+1096,SHA2::8ba72a391fb653b2cc1e5caa6f927efdf46568638bb4fc25e6f01dc36a96533b,SHA2,8ba72a391fb653b2cc1e5caa6f927efdf46568638bb4fc25e6f01dc36a96533b,1,0,8,2,FILEPATH,False
+1840,TIME::first half of 2021,TIME,first half of 2021,1,0,10,2,FILEPATH,False
+2158,attack-pattern::dos,attack-pattern,dos,4,0,12,13,campaign,False
+275,FILEPATH::endpointbasecampexe,FILEPATH,endpointbasecampexe,1,0,2,10,TIME,False
+1373,SOFTWARE::confluence server and data center,SOFTWARE,confluence server and data center,4,2,9,19,vulnerability,False
+1901,TIME::march 4,TIME,march 4,1,0,10,13,campaign,False
+1846,TIME::fy 2022 q1 and q3,TIME,fy 2022 q1 and q3,1,0,10,18,tools,False
+778,SHA1::4c1b8d070885e92d61b72dc9424d9b260046f83daf00d93d3121df9ed669a5f9,SHA1,4c1b8d070885e92d61b72dc9424d9b260046f83daf00d93d3121df9ed669a5f9,1,0,7,13,campaign,False
+2184,attack-pattern::exfiltration of consumer payment data,attack-pattern,exfiltration of consumer payment data,1,0,12,13,campaign,False
+2532,identity::appin,identity,appin,2,0,14,15,location,False
+3166,location::serbia,location,serbia,1,0,15,5,MD5,False
+3594,malware::vikro stealer,malware,vikro stealer,1,0,16,3,IPV4,False
+2550,identity::bo qu,identity,bo qu,1,0,14,18,tools,False
+338,FILEPATH::mailexe,FILEPATH,mailexe,2,0,2,4,Infrastucture,False
+1847,TIME::fy 2022 q2,TIME,fy 2022 q2,1,0,10,18,tools,False
+1433,SOFTWARE::google translate,SOFTWARE,google translate,1,0,9,6,REGISTRYKEY,False
+2035,URL::hxxp:miakhalifagame[]comgetaccess2[]php,URL,hxxp:miakhalifagame[]comgetaccess2[]php,1,0,11,10,TIME,False
+3197,location::time,location,time,43,0,15,3,IPV4,False
+2616,identity::elevenpaths,identity,elevenpaths,1,0,14,5,MD5,False
+3377,malware::gibberish,malware,gibberish,1,0,16,7,SHA1,False
+2923,location::africa,location,africa,1,1,15,11,URL,False
+1025,SHA2::5ae0d9e7ae61f3afb989aaf8e36eda1816ec44ceae666aea87a9fdc6fed35594,SHA2,5ae0d9e7ae61f3afb989aaf8e36eda1816ec44ceae666aea87a9fdc6fed35594,1,0,8,5,MD5,False
+1162,SHA2::bcfacc1ad5686aee3a9d8940e46d32af62f8e1cd1631653795778736b67b6d6e,SHA2,bcfacc1ad5686aee3a9d8940e46d32af62f8e1cd1631653795778736b67b6d6e,1,0,8,3,IPV4,False
+1571,SOFTWARE::pyinstaller,SOFTWARE,pyinstaller,1,0,9,6,REGISTRYKEY,False
+3686,threat-actor::group,threat-actor,group,1,1,17,16,malware,False
+3577,malware::trojanwin32biopassa,malware,trojanwin32biopassa,10,13,16,4,Infrastucture,False
+3013,location::exchange,location,exchange,3,0,15,3,IPV4,False
+3165,location::section,location,section,3,0,15,0,DOMAIN,False
+600,IPV4::45[]142[]214[]193,IPV4,45[]142[]214[]193,1,0,3,10,TIME,False
+52,DOMAIN::hxxp:0x3s[]comx[]js,DOMAIN,hxxp:0x3s[]comx[]js,1,0,0,9,SOFTWARE,False
+1774,TIME::3:25 am eastern time,TIME,3:25 am eastern time,1,0,10,2,FILEPATH,False
+2275,attack-pattern::malware infections,attack-pattern,malware infections,1,0,12,6,REGISTRYKEY,False
+803,SHA1::6edc067fc2301d7a972a654b3a07398d9c8cbe7bb38d1165b80ba4a13805e5ac,SHA1,6edc067fc2301d7a972a654b3a07398d9c8cbe7bb38d1165b80ba4a13805e5ac,1,0,7,5,MD5,False
+1780,TIME::7 am et,TIME,7 am et,1,0,10,0,DOMAIN,False
+2342,attack-pattern::remote code execution (rce),attack-pattern,remote code execution (rce),4,3,12,19,vulnerability,False
+1779,TIME::6:00 am pst on september 24,TIME,6:00 am pst on september 24,1,0,10,11,URL,False
+1705,SOFTWARE::workspace,SOFTWARE,workspace,1,0,9,2,FILEPATH,False
+3040,location::host,location,host,17,0,15,14,identity,False
+3434,malware::meris bot networks,malware,meris bot networks,1,0,16,2,FILEPATH,False
+2355,attack-pattern::sandbox escape,attack-pattern,sandbox escape,1,0,12,15,location,False
+2149,attack-pattern::distributing a malicious binary,attack-pattern,distributing a malicious binary,1,0,12,1,EMAIL,False
+1409,SOFTWARE::github,SOFTWARE,github,25,0,9,17,threat-actor,False
+2612,identity::eastern europe,identity,eastern europe,1,0,14,4,Infrastucture,False
+350,FILEPATH::mtywoti1mzeznq==exe,FILEPATH,mtywoti1mzeznq==exe,1,2,2,8,SHA2,False
+3994,vulnerability::dns server vulnerability cve20201350,vulnerability,dns server vulnerability cve20201350,1,0,19,5,MD5,False
+1424,SOFTWARE::google firebase,SOFTWARE,google firebase,1,0,9,7,SHA1,False
+3591,malware::usbferry,malware,usbferry,14,1,16,15,location,False
+2183,attack-pattern::exfiltrating data as a service,attack-pattern,exfiltrating data as a service,2,0,12,2,FILEPATH,False
+2204,attack-pattern::file deletion,attack-pattern,file deletion,1,0,12,14,identity,False
+2766,identity::proofpoint,identity,proofpoint,1,0,14,16,malware,False
+2344,attack-pattern::remote file copy,attack-pattern,remote file copy,1,0,12,11,URL,False
+2316,attack-pattern::phishing email,attack-pattern,phishing emails,5,0,12,0,DOMAIN,False
+1942,TIME::octoberseptember,TIME,octoberseptember,1,0,10,5,MD5,False
+534,IPV4::1728162[]82,IPV4,1728162[]82,1,0,3,8,SHA2,False
+2,DOMAIN::[redacted]test6ggdd[]co[]uk,DOMAIN,[redacted]test6ggdd[]co[]u,4,0,0,0,DOMAIN,True
+2420,attack-pattern::targeted malware,attack-pattern,targeted malware,4,0,12,16,malware,False
+1111,SHA2::96bf8f579acb8d9d0ff116d05fdadef85953f11e5b2e703041fdae0abf5b75dc,SHA2,96bf8f579acb8d9d0ff116d05fdadef85953f11e5b2e703041fdae0abf5b75dc,1,0,8,5,MD5,False
+690,MD5::b68bd3a54622792200b931ee5eebf860acf8b24f4b338b5080193573a81c747d,MD5,b68bd3a54622792200b931ee5eebf860acf8b24f4b338b5080193573a81c747d,1,0,5,11,URL,False
+643,"Infrastucture::command and control (c2) server,",Infrastucture,command and control (c2) server,3,3,4,12,attack-pattern,False
+2296,attack-pattern::obfuscated files or information: software packing t1218011,attack-pattern,obfuscated files or information: software packing t1218011,1,0,12,0,DOMAIN,False
+3649,threat-actor::chromium,threat-actor,chromium,5,0,17,19,vulnerability,False
+625,IPV4::8520323[]73,IPV4,8520323[]73,1,0,3,19,vulnerability,False
+3063,"location::kyiv, ukraine",location,"kyiv, ukraine",1,0,15,10,TIME,False
+3027,location::goes,location,goes,1,0,15,0,DOMAIN,False
+1936,"TIME::november 29, 2016",TIME,"november 29, 2016",1,0,10,19,vulnerability,False
+1222,SHA2::e1a9b35cf1378fda12310f0920c5c53ad461858b3cb575697ea125dfee829611,SHA2,e1a9b35cf1378fda12310f0920c5c53ad461858b3cb575697ea125dfee829611,1,0,8,17,threat-actor,False
+525,IPV4::159[]203[]141[]208,IPV4,159[]203[]141[]208,1,0,3,2,FILEPATH,False
+948,SHA2::2beabd8a9d9a485ab6d850f67ec25abbd66bf97b933ecc13cf0d63198e9ba26e,SHA2,2beabd8a9d9a485ab6d850f67ec25abbd66bf97b933ecc13cf0d63198e9ba26e,1,0,8,3,IPV4,False
+2995,location::driver,location,driver,4,0,15,6,REGISTRYKEY,False
+3990,vulnerability::cve202222972,vulnerability,cve202222963,46,20,19,19,vulnerability,True
+153,FILEPATH::%appdata%,FILEPATH,%appdata%,1,0,2,18,tools,False
+1468,SOFTWARE::kali linux,SOFTWARE,kali linux,1,0,9,0,DOMAIN,False
+1557,SOFTWARE::panos,SOFTWARE,panos,2,0,9,13,campaign,False
+604,IPV4::47[]57[]186[]151,IPV4,47[]57[]186[]151,1,0,3,18,tools,False
+3323,malware::cryptowall 30,malware,cryptowall 20,16,7,16,17,threat-actor,False
+438,FILEPATH::tomjjjsp,FILEPATH,tomjjjsp,1,0,2,19,vulnerability,False
+1979,URL::http:kidone[]xyz,URL,http:kidone[]xyz,3,0,11,18,tools,False
+295,FILEPATH::fnexe,FILEPATH,fnexe,1,2,2,0,DOMAIN,False
+904,SHA2::0c182b51ff1dffaa384651e478155632c6e65820322774e416be20e6d49bb8f9,SHA2,0c182b51ff1dffaa384651e478155632c6e65820322774e416be20e6d49bb8f9,1,0,8,18,tools,False
+3509,malware::redline stealer,malware,redline stealer,1,1,16,17,threat-actor,False
+3868,tools::out1,tools,out1,1,0,18,13,campaign,False
+3117,location::north korean,location,north korea,4,0,15,16,malware,False
+1951,TIME::september,TIME,september,1,0,10,11,URL,False
+2032,URL::hxxp:fakeomegle[]com,URL,hxxp:fakeomegle[]com,2,1,11,16,malware,False
+2157,attack-pattern::domain trust discovery t1083,attack-pattern,domain trust discovery t1083,1,0,12,13,campaign,False
+2243,attack-pattern::inject malicious code on sites,attack-pattern,inject malicious code on sites,1,1,12,5,MD5,False
+614,IPV4::5438124150,IPV4,5438124150,1,0,3,18,tools,False
+2141,attack-pattern::disable or modify tools [t1562001],attack-pattern,disable or modify tools [t1562001],1,0,12,14,identity,False
+1556,SOFTWARE::panorama,SOFTWARE,panorama,1,0,9,17,threat-actor,False
+3283,malware::bps backdoor,malware,bps backdoor,2,0,16,0,DOMAIN,False
+1102,SHA2::912018ab3c6b16b39ee84f17745ff0c80a33cee241013ec35d0281e40c0658d9,SHA2,912018ab3c6b16b39ee84f17745ff0c80a33cee241013ec35d0281e40c0658d9,1,0,8,14,identity,False
+205,FILEPATH::browserplugin (8)exe,FILEPATH,browserplugin (8)exe,1,0,2,18,tools,False
+3715,threat-actor::operation drbcontrol,threat-actor,operation drbcontrol,1,0,17,14,identity,False
+751,SHA1::2051f0a253eced030539a10ebc3e6869b727b8a9,SHA1,2051f0a253eced030539a10ebc3e6869b727b8a9,1,0,7,9,SOFTWARE,False
+1689,SOFTWARE::windows defender exploit guard,SOFTWARE,windows defender exploit guard,1,0,9,3,IPV4,False
+3002,location::effort,location,effort,4,0,15,8,SHA2,False
+2356,attack-pattern::scam sites,attack-pattern,scam sites,2,0,12,16,malware,False
+1429,SOFTWARE::google search,SOFTWARE,google search,2,0,9,12,attack-pattern,False
+1913,TIME::may 2019,TIME,may 2019,1,0,10,17,threat-actor,False
+2935,location::australian,location,australia,4,1,15,0,DOMAIN,False
+494,IPV4::104[]233[]224[]227,IPV4,104[]233[]224[]227,1,0,3,11,URL,False
+87,DOMAIN::pemra[]email,DOMAIN,pemra[]email,1,0,0,4,Infrastucture,False
+2314,attack-pattern::phishing attack,attack-pattern,phishing attacks,8,0,12,19,vulnerability,False
+3710,threat-actor::newscaster,threat-actor,newscaster,1,0,17,13,campaign,False
+1112,SHA2::973f573cab683636d9a70b8891263f59e2f02201ffb4dd2e9d7ecbb1521da03e,SHA2,973f573cab683636d9a70b8891263f59e2f02201ffb4dd2e9d7ecbb1521da03e,1,0,8,19,vulnerability,False
+3439,malware::mimikatz,malware,mimikatz,4,2,16,10,TIME,False
+864,SHA1::f577d2b97963b717981c01b535f257e03688ff4a918aa66352aa9cd31845b67d,SHA1,f577d2b97963b717981c01b535f257e03688ff4a918aa66352aa9cd31845b67d,1,0,7,4,Infrastucture,False
+2283,attack-pattern::mimicking popular websites,attack-pattern,mimicking popular websites,1,0,12,13,campaign,False
+91,DOMAIN::powershell[]services,DOMAIN,powershell[]services,1,0,0,0,DOMAIN,True
+3342,malware::dropbox,malware,dropbox,5,0,16,0,DOMAIN,False
+2640,identity::google project zero,identity,google project zero,2,0,14,13,campaign,False
+1332,SOFTWARE::aws security hub,SOFTWARE,aws security hub,1,0,9,17,threat-actor,False
+2423,attack-pattern::timestomp credential access t1003001,attack-pattern,timestomp credential access t1003001,1,0,12,19,vulnerability,False
+2465,attack-pattern::“passtheticket” attacks,attack-pattern,“passtheticket” attacks,1,0,12,19,vulnerability,False
+3586,malware::tspyconfsteala,malware,tspyconfsteala,2,3,16,8,SHA2,False
+2650,identity::grand jury,identity,grand jury,1,0,14,6,REGISTRYKEY,False
+2692,identity::man yue mo,identity,man yue mo,1,0,14,5,MD5,False
+999,SHA2::48f67be806b4e823280f03ee5512ffd58deb6f37ecc80842265d4e8d2ca30055,SHA2,48f67be806b4e823280f03ee5512ffd58deb6f37ecc80842265d4e8d2ca30055,1,0,8,0,DOMAIN,False
+2125,attack-pattern::data from local system,attack-pattern,data from local system,1,0,12,19,vulnerability,False
+1769,TIME::2023,TIME,2023,1,0,10,15,location,False
+3459,malware::njrat,malware,njrat,7,3,16,7,SHA1,False
+1140,SHA2::ac8e59e8abeacf0885b451833726be3e8e2d9c88d21f27b16ebe00f00c1409e6,SHA2,ac8e59e8abeacf0885b451833726be3e8e2d9c88d21f27b16ebe00f00c1409e6,4,0,8,4,Infrastucture,False
+2738,identity::oscar sanchez,identity,oscar sanchez,2,0,14,19,vulnerability,False
+1150,SHA2::b3bd28951789ef7cfaf659e07e198b45b04a2f3cde268e6ede4d4f877959341e,SHA2,b3bd28951789ef7cfaf659e07e198b45b04a2f3cde268e6ede4d4f877959341e,1,0,8,3,IPV4,False
+3964,vulnerability::cve20180807,vulnerability,cve20180802,2,1,19,11,URL,False
+213,FILEPATH::c:\manageengine\adselfservice plus\jre\bin\javaexe,FILEPATH,c:\manageengine\adselfservice plus\jre\bin\javaexe,1,0,2,18,tools,False
+942,SHA2::2727bf97d7e2a5e7e5e41ccbfd7237c59023d70914834400da1d762d96424fde,SHA2,2727bf97d7e2a5e7e5e41ccbfd7237c59023d70914834400da1d762d96424fde,1,0,8,3,IPV4,False
+3180,location::ssl,location,ssl,5,0,15,5,MD5,False
+2017,URL::https:wwwdropbox[]com,URL,https:wwwdropbox[]com,4,0,11,14,identity,False
+1588,SOFTWARE::secret chat point,SOFTWARE,secret chat point,3,0,9,19,vulnerability,False
+838,SHA1::b9f3a3b9452a396c3ba0ce4a644dd2b7f494905e820e7b1c6dca2fdcce069361,SHA1,b9f3a3b9452a396c3ba0ce4a644dd2b7f494905e820e7b1c6dca2fdcce069361,1,0,7,17,threat-actor,False
+2034,URL::hxxp:miakhalifagame[]com,URL,hxxp:miakhalifagame[]com,7,3,11,16,malware,False
+2916,location::33445,location,33445,1,0,15,8,SHA2,False
+1504,SOFTWARE::microsoft one drive,SOFTWARE,microsoft one drive,3,0,9,8,SHA2,False
+1314,SOFTWARE::apple’s mac os x,SOFTWARE,apple’s mac os x,1,0,9,3,IPV4,False
+1185,SHA2::c9d782ffaa98791613fef828e558b296932fa245192bd0eba8f76536860db84e,SHA2,c9d782ffaa98791613fef828e558b296932fa245192bd0eba8f76536860db84e,2,0,8,0,DOMAIN,False
+3413,malware::leverage,malware,leverage,7,0,16,18,tools,False
+3790,tools::bitsadmin,tools,bitsadmin,2,2,18,17,threat-actor,False
+1542,SOFTWARE::openssl library,SOFTWARE,openssl library,1,0,9,2,FILEPATH,False
+915,SHA2::11b785e77cbfa2d3849575cdfabd85d41bae3f2e0d33a77e7e2c46a45732d6e4,SHA2,11b785e77cbfa2d3849575cdfabd85d41bae3f2e0d33a77e7e2c46a45732d6e4,1,2,8,8,SHA2,True
+1007,SHA2::4ea43678c3f84a66ce93cff50b11aabbe28c99c058e7043f275fea3456f55b88,SHA2,4ea43678c3f84a66ce93cff50b11aabbe28c99c058e7043f275fea3456f55b88,1,0,8,4,Infrastucture,False
+2159,attack-pattern::dos attacks,attack-pattern,ddos attacks,11,4,12,14,identity,False
+3644,threat-actor::bronze union,threat-actor,bronze union,1,0,17,3,IPV4,False
+1687,SOFTWARE::windows cryptoapi,SOFTWARE,windows cryptoapi,2,0,9,11,URL,False
+1634,SOFTWARE::trend micro xgen™,SOFTWARE,trend micro xgen™,1,0,9,7,SHA1,False
+3628,threat-actor::apt33,threat-actor,apt33,12,0,17,10,TIME,False
+776,SHA1::49df4fec76a0ffaee5e4d933a734126c1a7b32d1c9cb5ab22a868e8bfc653245,SHA1,49df4fec76a0ffaee5e4d933a734126c1a7b32d1c9cb5ab22a868e8bfc653245,1,0,7,19,vulnerability,False
+3162,location::same,location,same,37,0,15,3,IPV4,False
+1955,TIME::since 2011,TIME,since 2011,2,1,10,17,threat-actor,False
+1905,TIME::march—14,TIME,march—14,1,0,10,7,SHA1,False
+125,DOMAIN::www1[]l4cky[]com,DOMAIN,www1[]l4cky[]com,1,0,0,14,identity,False
+3449,malware::netwalker,malware,netwalker,1,2,16,0,DOMAIN,False
+3483,malware::plugx,malware,plugx,41,0,16,13,campaign,False
+3536,malware::smokeloader,malware,smokeloader,2,0,16,5,MD5,False
+4033,vulnerability::soap wsdl parser vulnerability cve20178759,vulnerability,soap wsdl parser vulnerability cve20178759,1,2,19,13,campaign,False
+3941,vulnerability::bronze bit,vulnerability,bronze bit,1,1,19,15,location,False
+3681,threat-actor::fin7,threat-actor,fin7,20,10,17,15,location,False
+3898,tools::supernova,tools,supernova,1,0,18,10,TIME,False
+716,REGISTRYKEY::hkcu\software\microsoft\windows\currentversion\run\ssl,REGISTRYKEY,hkcu\software\microsoft\windows\currentversion\run,7,0,6,19,vulnerability,False
+3782,tools::anydesk,tools,anydesk,3,8,18,2,FILEPATH,False
+3675,threat-actor::emissary panda,threat-actor,emissary panda,1,0,17,7,SHA1,False
+2175,attack-pattern::evade detection,attack-pattern,evade detection,1,1,12,4,Infrastucture,False
+959,SHA2::30f7e1998d162dfad69d6d8abb763ae4033bbd4a015d170b1ad3e20d39cd4e20,SHA2,30f7e1998d162dfad69d6d8abb763ae4033bbd4a015d170b1ad3e20d39cd4e20,1,0,8,11,URL,False
+3666,threat-actor::dev0586,threat-actor,dev0586,1,0,17,15,location,False
+346,FILEPATH::mpbd6d42dat,FILEPATH,mpbd6d42dat,1,1,2,2,FILEPATH,True
+790,SHA1::61f83466b512eb12fc82441259a5205f076254546a7726a2e3e983011898e4e2,SHA1,61f83466b512eb12fc82441259a5205f076254546a7726a2e3e983011898e4e2,2,0,7,12,attack-pattern,False
+4023,vulnerability::ole & hta exploit,vulnerability,ole & hta exploit,1,0,19,15,location,False
+1041,SHA2::66af894eee6daae66bf0bcb87cb7abe2a0ebb6a59779f652db571e7ee298d751,SHA2,66af894eee6daae66bf0bcb87cb7abe2a0ebb6a59779f652db571e7ee298d751,1,0,8,10,TIME,False
+1383,SOFTWARE::cyvera,SOFTWARE,cyvera,1,0,9,9,SOFTWARE,True
+1006,SHA2::4e9d4afc901fa1766e48327f3c9642c893831af310bc18ccf876d44ea4efbf1d,SHA2,4e9d4afc901fa1766e48327f3c9642c893831af310bc18ccf876d44ea4efbf1d,1,0,8,11,URL,False
+2767,identity::putin,identity,putin,2,0,14,1,EMAIL,False
+722,REGISTRYKEY::hklm\system,REGISTRYKEY,hklm\system,1,0,6,18,tools,False
+728,SHA1::0191cf8ce2fbee0a69211826852338ff0ede2b5c65ae10a2b05dd34f675e3bae,SHA1,0191cf8ce2fbee0a69211826852338ff0ede2b5c65ae10a2b05dd34f675e3bae,1,0,7,11,URL,False
+1795,TIME::april 5 and 6,TIME,april 5 and 6,1,0,10,7,SHA1,False
+3173,location::south china sea area,location,south china sea area,1,0,15,13,campaign,False
+2502,campaign::sofacy campaign,campaign,sofacy campaign,1,1,13,8,SHA2,False
+179,FILEPATH::8697f146477832389449cf2548032ca7txt,FILEPATH,8697f146477832389449cf2548032ca7txt,1,0,2,13,campaign,False
+2443,attack-pattern::watering hole,attack-pattern,watering hole,2,3,12,8,SHA2,False
+20,DOMAIN::cloud[]l4cky[]men,DOMAIN,cloud[]l4cky[]men,1,0,0,7,SHA1,False
+3254,malware::avoslocker,malware,avoslocker,9,8,16,19,vulnerability,False
+1098,SHA2::8dd620d9aeb35960bb766458c8890ede987c33d239cf730f93fe49d90ae759dd,SHA2,8dd620d9aeb35960bb766458c8890ede987c33d239cf730f93fe49d90ae759dd,1,0,8,0,DOMAIN,False
+3979,vulnerability::cve202126855,vulnerability,cve202126855,4,2,19,4,Infrastucture,False
+1800,TIME::around 13:35 on july 18,TIME,around 13:35 on july 18,1,0,10,3,IPV4,False
+907,SHA2::0cd6f593cc58ba3ac40f9803d97a6162a308ec3caa53e1ea1ce7f977f2e667d3,SHA2,0cd6f593cc58ba3ac40f9803d97a6162a308ec3caa53e1ea1ce7f977f2e667d3,1,0,8,8,SHA2,True
+1584,SOFTWARE::safe browsing,SOFTWARE,safe browsing,6,0,9,19,vulnerability,False
+2320,attack-pattern::port scanning,attack-pattern,port scanning,1,0,12,0,DOMAIN,False
+2391,attack-pattern::spearphishing link,attack-pattern,spearphishing link,1,0,12,2,FILEPATH,False
+3732,threat-actor::safe,threat-actor,safe,12,0,17,15,location,False
+1879,TIME::june 7,TIME,june 7,1,0,10,17,threat-actor,False
+3631,threat-actor::apt41,threat-actor,apt41,5,2,17,17,threat-actor,True
+3211,location::us,location,us,9,2,15,4,Infrastucture,False
+498,IPV4::10920024114,IPV4,10920024114,1,0,3,0,DOMAIN,False
+1809,"TIME::august 24, 2018",TIME,"august 22, 2018",3,0,10,7,SHA1,False
+829,SHA1::aa60c1fae6a0ef3b9863f710e46f0a7407cf0feffa240b9a4661a4e8884ac627,SHA1,aa60c1fae6a0ef3b9863f710e46f0a7407cf0feffa240b9a4661a4e8884ac627,1,0,7,0,DOMAIN,False
+1512,SOFTWARE::microsoft windows domain name system (dns),SOFTWARE,microsoft windows domain name system (dns),1,0,9,9,SOFTWARE,True
+106,DOMAIN::sastindcn[]org,DOMAIN,sastindcn[]org,1,1,0,11,URL,False
+2684,identity::king,identity,king,2,0,14,7,SHA1,False
+1776,TIME::4:30 pm,TIME,4:30 pm,1,0,10,15,location,False
+1982,URL::http:www[]minpop[]com,URL,http:www[]minpop[]com,2,0,11,5,MD5,False
+2728,identity::nvidia,identity,nvidia,1,0,14,15,location,False
+3895,tools::shellcode,tools,shellcode,1,2,18,17,threat-actor,False
+1255,SHA2::f58ae9193802e9baf17e6b59e3fdbe3e9319c5d27726d60802e3e82d30d14d46,SHA2,f58ae9193802e9baf17e6b59e3fdbe3e9319c5d27726d60802e3e82d30d14d46,1,0,8,10,TIME,False
+3046,location::indonesia,location,indonesia,1,0,15,18,tools,False
+3125,location::outlook,location,outlook,3,0,15,11,URL,False
+2758,identity::political and military targets,identity,political and military targets,1,5,14,15,location,False
+2989,location::day,location,day,4,0,15,15,location,True
+1826,TIME::every 60 seconds,TIME,every 10 seconds,3,0,10,3,IPV4,False
+1601,SOFTWARE::spring,SOFTWARE,spring,5,0,9,15,location,False
+1155,SHA2::b78a3d21325d3db7470fbf1a6d254e23d349531fca4d7f458b33ca93c91e61cd,SHA2,b78a3d21325d3db7470fbf1a6d254e23d349531fca4d7f458b33ca93c91e61cd,1,0,8,14,identity,False
+401,FILEPATH::sdcardmovies,FILEPATH,sdcardmovies,1,0,2,7,SHA1,False
+440,FILEPATH::uareportzip,FILEPATH,uareportzip,1,0,2,0,DOMAIN,False
+1274,SHA2::fe00bd6fba209a347acf296887b10d2574c426fa962b6d4d94c34b384d15f0f1,SHA2,fe00bd6fba209a347acf296887b10d2574c426fa962b6d4d94c34b384d15f0f1,1,0,8,19,vulnerability,False
+787,SHA1::5b9b7fb59f0613c32650e8a3b91067079bcb2fc2,SHA1,5b9b7fb59f0613c32650e8a3b91067079bcb2fc2,1,0,7,5,MD5,False
+3833,tools::hyperbro,tools,hyperbro,1,0,18,15,location,False
+1300,SOFTWARE::android kitkat (version 44),SOFTWARE,android kitkat (version 44),1,0,9,17,threat-actor,False
+3601,malware::wanacrypt0r,malware,wanacrypt0r,28,2,16,10,TIME,False
+3821,tools::framework,tools,framework,1,1,18,0,DOMAIN,False
+2624,identity::european embassy,identity,european embassy,1,2,14,15,location,False
+3305,malware::chopper webshell,malware,chopper web shell,7,1,16,15,location,False
+4034,vulnerability::spectre,vulnerability,spectre,2,1,19,12,attack-pattern,False
+1734,TIME::15 seconds,TIME,60 seconds,3,0,10,0,DOMAIN,False
+2508,campaign::water nue’s,campaign,water nue’s,1,0,13,0,DOMAIN,False
+130,DOMAIN::wxdget[]osscnhongkong[]aliyuncs[]com,DOMAIN,wxdget[]osscnhongkong[]aliyuncs[]com,3,0,0,11,URL,False
+2102,attack-pattern::compromise a website,attack-pattern,compromise a website,1,0,12,19,vulnerability,False
+3474,malware::pclock 2,malware,pclock,28,2,16,3,IPV4,False
+2029,URL::https[:]webadmin[]mirrorstorage[]orgchexe,URL,https[:]webadmin[]mirrorstorage[]orgchexe,1,0,11,19,vulnerability,False
+3079,location::long,location,long,9,0,15,7,SHA1,False
+705,MD5::e954ff741baebb173ba45fbcfdea7499d00d8cfa2933b69f6cc0970b294f9ffd,MD5,e954ff741baebb173ba45fbcfdea7499d00d8cfa2933b69f6cc0970b294f9ffd,1,0,5,5,MD5,True
+3241,malware::androrat,malware,androrat,2,0,16,10,TIME,False
+1,DOMAIN::1dnscontrol[]com,DOMAIN,1dnscontrol[]com,1,0,0,7,SHA1,False
+3519,malware::saintbot,malware,saintbot,1,1,16,10,TIME,False
+1680,SOFTWARE::windivert,SOFTWARE,windivert,1,0,9,5,MD5,False
+1915,TIME::may 2021,TIME,may 2021,1,0,10,16,malware,False
+1395,SOFTWARE::eth,SOFTWARE,eth,1,0,9,18,tools,False
+1101,SHA2::903c04976fa6e6721c596354f383a4d4272c6730b29eee00b0ec599265963e74,SHA2,903c04976fa6e6721c596354f383a4d4272c6730b29eee00b0ec599265963e74,1,0,8,13,campaign,False
+2509,campaign::water pamola’s,campaign,water pamola,11,4,13,16,malware,False
+1869,TIME::june 2016,TIME,june 2016,1,0,10,3,IPV4,False
+2724,identity::netlab 360,identity,netlab 360,1,0,14,3,IPV4,False
+2153,attack-pattern::dll search order hijacking,attack-pattern,dll search order hijacking,1,0,12,0,DOMAIN,False
+3296,malware::cerber,malware,cerber,1,0,16,17,threat-actor,False
+764,SHA1::32519b85c0b422e4656de6e6c41878e95fd95026267daab4215ee59c107d6c77,SHA1,32519b85c0b422e4656de6e6c41878e95fd95026267daab4215ee59c107d6c77,1,0,7,13,campaign,False
+1650,SOFTWARE::unit 42 atom viewer,SOFTWARE,unit 42 atom viewer,1,0,9,2,FILEPATH,False
+2623,identity::eset,identity,eset,2,0,14,3,IPV4,False
+1109,SHA2::946405e2f26e1cc0bd22bc7e12d403da939f02e9c4d8ddd012f049cf4bf1fda9,SHA2,946405e2f26e1cc0bd22bc7e12d403da939f02e9c4d8ddd012f049cf4bf1fda9,1,0,8,3,IPV4,False
+3398,malware::inception,malware,inception,3,0,16,14,identity,False
+2528,identity::aolcom,identity,aolcom,1,0,14,5,MD5,False
+2070,attack-pattern::administrator privilege,attack-pattern,administrator privilege,1,1,12,5,MD5,False
+3590,malware::uknow,malware,uknow,1,1,16,14,identity,False
+2775,identity::regional prosecutor’s office of ukraine,identity,regional prosecutor’s office of ukraine,2,1,14,17,threat-actor,False
+272,"FILEPATH::ecverphp,",FILEPATH,"ecverphp,",1,1,2,4,Infrastucture,False
+876,SHA2::009cc0f34f60467552ef79c3892c501043c972be55fe936efb30584975d45ec0,SHA2,009cc0f34f60467552ef79c3892c501043c972be55fe936efb30584975d45ec0,1,0,8,11,URL,False
+2205,attack-pattern::fileexecuting,attack-pattern,fileexecuting,1,1,12,18,tools,False
+2264,attack-pattern::make customized backdoors,attack-pattern,make customized backdoors,1,0,12,7,SHA1,False
+1502,SOFTWARE::microsoft office,SOFTWARE,microsoft office,7,1,9,15,location,False
+492,IPV4::103[]158[]190[]58,IPV4,103[]158[]190[]58,1,0,3,10,TIME,False
+3081,location::mach,location,mach,4,0,15,11,URL,False
+446,FILEPATH::uninstallexe,FILEPATH,uninstallexe,2,2,2,10,TIME,False
+430,FILEPATH::testqqsgjsp,FILEPATH,testqqsgjsp,1,0,2,17,threat-actor,False
+2390,attack-pattern::spearphishing campaigns,attack-pattern,spearphishing campaigns,1,0,12,5,MD5,False
+2332,attack-pattern::proxy: internal proxy exfiltration t1567002,attack-pattern,proxy: internal proxy exfiltration t1567002,1,0,12,7,SHA1,False
+3641,threat-actor::blackkingdom,threat-actor,blackkingdom,1,0,17,5,MD5,False
+1999,URL::https:inlgovotdefender,URL,https:inlgovotdefender,1,0,11,11,URL,True
+1941,TIME::october 31,TIME,october 1,4,0,10,19,vulnerability,False
+2428,attack-pattern::unauthenticated remote code execution,attack-pattern,unauthenticated remote code execution (rce),2,1,12,9,SOFTWARE,False
+2424,attack-pattern::tricked into downloading,attack-pattern,tricked into downloading,1,1,12,3,IPV4,False
+3722,threat-actor::ragnarlocker,threat-actor,ragnarlocker,1,0,17,11,URL,False
+1132,SHA2::a70aca719b06fc8ef0cd0b0e010c7bc8dc6d632e4f2f874e4c0e553bd8db2df2,SHA2,a70aca719b06fc8ef0cd0b0e010c7bc8dc6d632e4f2f874e4c0e553bd8db2df2,1,0,8,0,DOMAIN,False
+844,SHA1::c47fabc47806961f908bed37d6b1bbbfd183d564a2d01b7cae87bd95c20ff8a5,SHA1,c47fabc47806961f908bed37d6b1bbbfd183d564a2d01b7cae87bd95c20ff8a5,1,1,7,4,Infrastucture,False
+1379,SOFTWARE::cortex xdr version 73,SOFTWARE,cortex xdr version 73,1,0,9,16,malware,False
+2025,URL::https:wwwvirustotalcomguifile656d19186795280a068fcb97e7ef821b55ad3d620771d42ed98d22ee3c635e67detection,URL,https:wwwvirustotalcomguifile656d19186795280a068fcb97e7ef821b55ad3d620771d42ed98d22ee3c635e67detection,3,0,11,9,SOFTWARE,False
+3267,malware::bahamut,malware,bahamut,3,1,16,17,threat-actor,False
+3426,malware::malicious rtf,malware,malicious rtf,1,2,16,0,DOMAIN,False
+571,IPV4::1948770[]14,IPV4,1948770[]14,1,0,3,2,FILEPATH,False
+48,DOMAIN::flashi[]com[]cn,DOMAIN,flashi[]com[]cn,1,0,0,12,attack-pattern,False
+133,DOMAIN::yacht[]x4k[]me,DOMAIN,yacht[]x4k[]me,1,0,0,16,malware,False
+759,SHA1::29cc0ff619f54068ce0ab34e8ed3919d13fa5ee9,SHA1,29cc0ff619f54068ce0ab34e8ed3919d13fa5ee9,1,0,7,8,SHA2,False
+3492,malware::protux (bkdrprotuxztbc),malware,protux (bkdrprotuxztbc),1,1,16,17,threat-actor,False
+2637,identity::fun app,identity,fun app,3,0,14,14,identity,True
+139,EMAIL::claud@studentcnriedu,EMAIL,claud@studentcnriedu,1,0,1,19,vulnerability,False
+2271,attack-pattern::malicious emails,attack-pattern,malicious emails,1,1,12,17,threat-actor,False
+2671,identity::ips team,identity,ips team,1,0,14,11,URL,False
+1707,SOFTWARE::xdr,SOFTWARE,xdr,11,0,9,5,MD5,False
+3944,vulnerability::conficker,vulnerability,conficker,1,0,19,3,IPV4,False
+3188,location::summit,location,summit,4,0,15,0,DOMAIN,False
+59,DOMAIN::hxxps:webpluscnhongkongs5faf81e0d937f14c9ddbe5a0[]osscnhongkongaliyuncs[]comsilverlightinsexe,DOMAIN,hxxps:webpluscnhongkongs5faf81e0d937f14c9ddbe5a0osscnhongkongaliyuncs[]comflashins[]exe,2,0,0,17,threat-actor,False
+2782,identity::russia gru,identity,russian gru,2,2,14,17,threat-actor,False
+1586,SOFTWARE::samsung browser,SOFTWARE,samsung browser,2,0,9,8,SHA2,False
+808,SHA1::76640508b1e7759e548771a5359eaed353bf1eec,SHA1,76640508b1e7759e548771a5359eaed353bf1eec,1,0,7,0,DOMAIN,False
+3952,vulnerability::cve20141776,vulnerability,cve20141776,5,2,19,15,location,False
+564,IPV4::192132218[]149,IPV4,192132218[]149,1,0,3,9,SOFTWARE,False
+2250,attack-pattern::lack of multifactor authentication (mfa),attack-pattern,lack of multifactor authentication (mfa),1,0,12,5,MD5,False
+1724,TIME::10 hours,TIME,10 hours,1,0,10,8,SHA2,False
+2486,campaign::magic hound campaign,campaign,magic hound campaign,1,1,13,19,vulnerability,False
+3672,threat-actor::earth smilodon,threat-actor,earth smilodon,1,0,17,14,identity,False
+2529,identity::aon’s researchers,identity,aon’s researchers,1,0,14,5,MD5,False
+1423,SOFTWARE::google drive,SOFTWARE,google drive,5,0,9,16,malware,False
+2187,attack-pattern::exploit publicfacing application [t1190],attack-pattern,exploit publicfacing application [t1190],2,0,12,7,SHA1,False
+410,FILEPATH::silverlight2exe,FILEPATH,silverlightinsexe,16,16,2,8,SHA2,False
+82,DOMAIN::office[]l4cky[]men,DOMAIN,office[]l4cky[]men,1,0,0,18,tools,False
+2244,attack-pattern::input capture,attack-pattern,input capture,1,0,12,10,TIME,False
+1976,URL::http:<redacted>:8000dfmanagerbin,URL,http:<redacted>:8000dfmanagerexe,2,0,11,6,REGISTRYKEY,False
+2714,identity::mitre engenuity att&ck,identity,mitre engenuity att&ck,1,0,14,13,campaign,False
+699,MD5::d07d4e71927cab4f251bcc216f560674c5fb783add9c9f956d3fc457153be025,MD5,d07d4e71927cab4f251bcc216f560674c5fb783add9c9f956d3fc457153be025,1,0,5,1,EMAIL,False
+911,SHA2::0f6bcbdf4d192f8273887f9858819dd4690397a92fb28a60bb731c873c438e07,SHA2,0f6bcbdf4d192f8273887f9858819dd4690397a92fb28a60bb731c873c438e07,1,1,8,1,EMAIL,False

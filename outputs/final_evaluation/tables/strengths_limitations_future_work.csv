@@ -1,0 +1,8 @@
+strengths,limitations,future_work
+The complete pipeline is reproducible and uses saved outputs from each stage.,The graph remains highly sparse and most test nodes are isolated.,Evaluate relation-aware models such as R-GCN or heterogeneous GNNs.
+The same fixed split and initial Node2Vec features support controlled model comparison.,Connected-only evaluation excludes entity classes without sufficient support.,Introduce textual or semantic node attributes for isolated-node classification.
+GraphSAGE is evaluated across ten seeds using mean and standard deviation.,Node2Vec and GraphSAGE use homogeneous connectivity and do not model the 25 relation types.,Use larger and denser CTI graphs from additional public or operational sources.
+Incoming and outgoing graph directions are aggregated separately.,The counterfactual is pipeline-level rather than a perfectly matched-node causal experiment.,Evaluate temporal graph learning for evolving threat intelligence.
+Connected-node sensitivity analysis distinguishes graph effects from isolation effects.,Results are based on one public CTI dataset and therefore require external validation.,Investigate more conservative and learned entity-resolution methods.
+The original-versus-canonical comparison directly addresses the research question.,"Node2Vec features already encode topology, so the traditional baselines are not graph-free.",Perform external validation on data from a different source.
+Paired seed-level tests quantify the consistency of performance differences.,,

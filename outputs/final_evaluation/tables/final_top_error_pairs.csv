@@ -1,0 +1,16 @@
+entity_type,predicted_entity_type,error_count
+SOFTWARE,FILEPATH,11
+SHA2,malware,9
+malware,SOFTWARE,9
+attack-pattern,location,9
+SOFTWARE,TIME,9
+location,attack-pattern,9
+malware,SHA2,8
+identity,malware,8
+identity,location,8
+attack-pattern,SOFTWARE,7
+SOFTWARE,identity,7
+attack-pattern,FILEPATH,6
+SHA2,FILEPATH,6
+identity,SOFTWARE,6
+attack-pattern,IPV4,6

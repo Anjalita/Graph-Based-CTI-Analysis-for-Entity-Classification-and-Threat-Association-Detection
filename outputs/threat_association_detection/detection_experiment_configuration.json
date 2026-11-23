@@ -1,0 +1,39 @@
+{
+    "task": "directed_binary_threat_association_detection",
+    "definition": "Detect whether a directed CTI association is likely to exist between two entities.",
+    "scope_exclusion": "Not live attack, network intrusion, malware execution, or SOC incident detection.",
+    "evaluation_seeds": [
+        11,
+        22,
+        33,
+        42,
+        55,
+        66,
+        77,
+        88,
+        99,
+        111
+    ],
+    "primary_metric": "average_precision",
+    "threshold_selection": "validation F1 only",
+    "positive_edge_split": "approximately 70/15/15 with rare relations retained in training",
+    "negative_sampling": "type-compatible unobserved directed pairs",
+    "node_features": [
+        "one-hot entity type",
+        "log1p mention count",
+        "training graph in-degree",
+        "training graph out-degree"
+    ],
+    "leakage_control": "validation and test positive edges are excluded from GraphSAGE message passing; full-graph Node2Vec embeddings are excluded",
+    "graphsage_configuration": {
+        "hidden_dim": 64,
+        "embedding_dim": 64,
+        "dropout": 0.3,
+        "learning_rate": 0.005,
+        "weight_decay": 0.0005,
+        "maximum_epochs": 250,
+        "minimum_epochs": 30,
+        "early_stopping_patience": 30,
+        "evaluation_interval": 5
+    }
+}

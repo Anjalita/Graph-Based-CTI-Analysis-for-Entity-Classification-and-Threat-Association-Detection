@@ -1,0 +1,6 @@
+graph_version,nodes,edges,density,weakly_connected_components
+Original mention-level graph,12679,1094,7e-06,11672
+V1 - exact normalised match,4385,945,4.9157712506970515e-05,3571
+V2 - noise filtered,4363,935,4.9129318138659856e-05,3557
+V3 - punctuation-insensitive,4354,933,4.922713399625874e-05,3550
+V4 - fuzzy matched,4050,910,5.549304964798502e-05,3267

@@ -1,0 +1,2 @@
+task,feature_type,normalisation,direction_handling,primary_metric,evaluation_seed_count,full_graph_split,selected_hidden_dim,selected_dropout,selected_learning_rate
+transductive_multiclass_node_classification,128-dimensional Node2Vec,LayerNorm,separate incoming and outgoing aggregation,macro_f1,10,Notebook 6 fixed split,64,0.3,0.005

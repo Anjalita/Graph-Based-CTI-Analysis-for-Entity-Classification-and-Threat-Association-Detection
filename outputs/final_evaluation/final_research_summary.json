@@ -1,0 +1,91 @@
+{
+    "research_questions": {
+        "RQ1": "Can Knowledge Graph refinement through entity canonicalisation improve graph representation learning and downstream cyber entity classification?",
+        "RQ2": "Can a Graph Neural Network that directly aggregates neighbourhood information outperform traditional machine learning models based on fixed Node2Vec embeddings?"
+    },
+    "research_answers": {
+        "RQ1": "The results support RQ1 under the experimental conditions of this study. The original-graph counterfactual achieved a mean Macro-F1 of 0.1792 \u00b1 0.0147, whereas the canonical-graph condition achieved 0.3248 \u00b1 0.0335. This represents an absolute Macro-F1 improvement of 0.1457 and a relative improvement of 81.31%. The canonical condition outperformed the original condition across all ten evaluation seeds, and the paired Wilcoxon signed-rank test indicated a statistically significant difference (p = 0.0020). These findings provide evidence that reducing graph fragmentation through entity canonicalisation can improve the structural learnability of the CTI Knowledge Graph and downstream cyber entity classification. However, canonicalisation changes both graph size and node identity; therefore, the comparison is interpreted as a pipeline-level counterfactual rather than a perfectly matched-node causal experiment.",
+        "RQ2": "The results also support RQ2 under the experimental conditions of this study. On the complete canonical graph, GraphSAGE achieved a mean Macro-F1 of 0.1108 \u00b1 0.0091, compared with 0.0520 \u00b1 0.0053 for Random Forest and 0.0497 \u00b1 0.0000 for Logistic Regression. GraphSAGE outperformed Random Forest across all ten evaluation seeds in the full-graph comparison, with a paired Wilcoxon signed-rank test yielding p = 0.0020. The advantage became substantially larger in the connected-node sensitivity analysis, where GraphSAGE achieved a mean Macro-F1 of 0.3212 \u00b1 0.0326, compared with 0.1324 \u00b1 0.0124 for Random Forest and 0.1428 \u00b1 0.0000 for Logistic Regression. GraphSAGE again outperformed Random Forest across all ten seeds in this connected-node condition (p = 0.0020). Approximately 78.29% of the complete test population consisted of isolated nodes, substantially limiting the neighbourhood information available to GraphSAGE in the full-graph experiment. The results therefore indicate that direct neighbourhood aggregation can provide predictive value beyond fixed Node2Vec representations, particularly when meaningful graph connectivity is available."
+    },
+    "primary_metric": "macro_f1",
+    "RQ1_evidence": {
+        "original_graph": {
+            "macro_f1_mean": 0.1791567793999152,
+            "macro_f1_std": 0.0146798214494948
+        },
+        "canonical_graph": {
+            "macro_f1_mean": 0.3248343006808831,
+            "macro_f1_std": 0.0334504171046428
+        },
+        "absolute_macro_f1_gain": 0.1456775212809679,
+        "relative_macro_f1_gain_percent": 81.3128712008075,
+        "paired_wilcoxon_p_value": 0.001953125
+    },
+    "RQ2_evidence": {
+        "full_graph": {
+            "GraphSAGE": {
+                "macro_f1_mean": 0.1108289880389531,
+                "macro_f1_std": 0.0091364129985856
+            },
+            "Random_Forest": {
+                "macro_f1_mean": 0.0520213089615119,
+                "macro_f1_std": 0.005263015299652
+            },
+            "Logistic_Regression": {
+                "macro_f1_mean": 0.0497374782992341,
+                "macro_f1_std": 0.0
+            },
+            "GraphSAGE_vs_Random_Forest_p_value": 0.001953125
+        },
+        "connected_node_sensitivity": {
+            "GraphSAGE": {
+                "macro_f1_mean": 0.3211524453517617,
+                "macro_f1_std": 0.0326353732153565
+            },
+            "Random_Forest": {
+                "macro_f1_mean": 0.1324134988954199,
+                "macro_f1_std": 0.0124248852867775
+            },
+            "Logistic_Regression": {
+                "macro_f1_mean": 0.1427569711647672,
+                "macro_f1_std": 0.0
+            },
+            "GraphSAGE_vs_Random_Forest_p_value": 0.001953125
+        },
+        "isolated_test_percentage": 78.28947448730469
+    },
+    "evaluation_seeds": [
+        11,
+        22,
+        33,
+        42,
+        55,
+        66,
+        77,
+        88,
+        99,
+        111
+    ],
+    "selected_graphsage_configuration": {
+        "hidden_dim": 64,
+        "dropout": 0.3,
+        "learning_rate": 0.005,
+        "weight_decay": 0.0005,
+        "maximum_epochs": 250,
+        "minimum_epochs": 25,
+        "early_stopping_patience": 25
+    },
+    "counterfactual_node2vec_configuration": {
+        "embedding_dim": 128,
+        "walk_length": 10,
+        "context_size": 5,
+        "walks_per_node": 3,
+        "p": 1.0,
+        "q": 1.0,
+        "num_negative_samples": 2,
+        "batch_size": 512,
+        "learning_rate": 0.01,
+        "epochs": 15,
+        "seed": 42
+    }
+}

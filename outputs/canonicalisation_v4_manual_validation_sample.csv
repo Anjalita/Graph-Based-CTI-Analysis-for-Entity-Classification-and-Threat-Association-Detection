@@ -1,0 +1,21 @@
+entity_id,entity_type,entity_text,start_offset,end_offset,report_id,normalised_text,canonical_key,normalised_text_v3,canonical_key_v3,canonical_key_v4
+45857,attack-pattern,website defacement,30,48,188,website defacement,attack-pattern::website defacement,website defacement,attack-pattern::website defacement,attack-pattern::website defacements
+44593,TIME,1H’ 2021,7,15,96,1h’ 2021,TIME::1h’ 2021,1h’ 2021,TIME::1h’ 2021,TIME::1h 2021
+47581,SOFTWARE,alo Alto Networks Next-Generation Firewall with a Threat Prevention,2,69,2495,alo alto networks next-generation firewall with a threat prevention,SOFTWARE::alo alto networks next-generation firewall with a threat prevention,alo alto networks nextgeneration firewall with a threat prevention,SOFTWARE::alo alto networks nextgeneration firewall with a threat prevention,SOFTWARE::palo alto networks next generation firewall threat prevention
+5440,attack-pattern,system network configuration discovery,49,87,1856,system network configuration discovery,attack-pattern::system network configuration discovery,system network configuration discovery,attack-pattern::system network configuration discovery,attack-pattern::system network configuration discovery [t1016]
+44990,FILEPATH,C:\Windows\System32\sc.exe,313,339,1383,c:\windows\system32\sc.exe,FILEPATH::c:\windows\system32\sc.exe,c:\windows\system32\scexe,FILEPATH::c:\windows\system32\scexe,FILEPATH::c:\windows\system32\chexe
+46260,vulnerability,CVE-2018-0802,128,141,683,cve-2018-0802,vulnerability::cve-2018-0802,cve20180802,vulnerability::cve20180802,vulnerability::cve20180807
+49020,FILEPATH,Silverlight_ins.exe,0,19,3374,silverlight-ins.exe,FILEPATH::silverlight-ins.exe,silverlightinsexe,FILEPATH::silverlightinsexe,FILEPATH::silverlight2exe
+50153,malware,Trojan.W97M.CONFUCIUS.B,428,451,4367,trojan.w97m.confucius.b,malware::trojan.w97m.confucius.b,trojanw97mconfuciusb,malware::trojanw97mconfuciusb,malware::trojanw97mconfuciusc
+44106,IPV4,174[.]139[.]62[.]60,377,396,14254,174[.]139[.]62[.]60,IPV4::174[.]139[.]62[.]60,174[]139[]62[]60,IPV4::174[]139[]62[]60,IPV4::174[]139[]62[]61
+51235,vulnerability,CVE-2021-38425,31,45,5191,cve-2021-38425,vulnerability::cve-2021-38425,cve202138425,vulnerability::cve202138425,vulnerability::cve202138433
+46830,attack-pattern,harvesting credentials,36,58,1573,harvesting credentials,attack-pattern::harvesting credentials,harvesting credentials,attack-pattern::harvesting credentials,attack-pattern::harvests credentials
+50205,URL,http://{C2}/Index.php?Ck=OK,4,31,4395,http://{c2}/index.php?ck=ok,URL::http://{c2}/index.php?ck=ok,http:{c2}indexphp?ck=ok,URL::http:{c2}indexphp?ck=ok,URL::http:{c2}indexphp?ck
+50269,location,Israeli,60,67,4473,israeli,location::israeli,israeli,location::israeli,location::israel
+49885,threat-actor,threat actors,10,23,4037,threat actors,threat-actor::threat actors,threat actors,threat-actor::threat actors,threat-actor::threat actor
+46479,identity,Google,35,41,982,google,identity::google,google,identity::google,identity::google’
+22683,REGISTRYKEY,HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\KernelConfig,24,83,7260,hklm\software\microsoft\windows\currentversion\kernelconfig,REGISTRYKEY::hklm\software\microsoft\windows\currentversion\kernelconfig,hklm\software\microsoft\windows\currentversion\kernelconfig,REGISTRYKEY::hklm\software\microsoft\windows\currentversion\kernelconfig,REGISTRYKEY::hklm\software\microsoft\windows\currentversion\driverconfig
+45867,attack-pattern,DDoS attacks,81,93,193,ddos attacks,attack-pattern::ddos attacks,ddos attacks,attack-pattern::ddos attacks,attack-pattern::dos attacks
+46992,identity,Avast’,55,61,1868,avast’,identity::avast’,avast’,identity::avast’,identity::avast
+44912,TIME,August 2015,105,116,957,august 2015,TIME::august 2015,august 2015,TIME::august 2015,TIME::august 2016
+11467,URL,https://www.zerodayinitiative.com/about,21,60,3785,https://www.zerodayinitiative.com/about,URL::https://www.zerodayinitiative.com/about,https:wwwzerodayinitiativecomabout,URL::https:wwwzerodayinitiativecomabout,URL::https:wwwzerodayinitiativecomblog

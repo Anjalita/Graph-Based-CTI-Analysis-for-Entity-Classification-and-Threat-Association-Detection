@@ -1,0 +1,14 @@
+FINAL RESEARCH QUESTION ANSWERS
+================================
+
+RQ1
+----
+Can Knowledge Graph refinement through entity canonicalisation improve graph representation learning and downstream cyber entity classification?
+
+The results support RQ1 under the experimental conditions of this study. The original-graph counterfactual achieved a mean Macro-F1 of 0.1792 ± 0.0147, whereas the canonical-graph condition achieved 0.3248 ± 0.0335. This represents an absolute Macro-F1 improvement of 0.1457 and a relative improvement of 81.31%. The canonical condition outperformed the original condition across all ten evaluation seeds, and the paired Wilcoxon signed-rank test indicated a statistically significant difference (p = 0.0020). These findings provide evidence that reducing graph fragmentation through entity canonicalisation can improve the structural learnability of the CTI Knowledge Graph and downstream cyber entity classification. However, canonicalisation changes both graph size and node identity; therefore, the comparison is interpreted as a pipeline-level counterfactual rather than a perfectly matched-node causal experiment.
+
+RQ2
+----
+Can a Graph Neural Network that directly aggregates neighbourhood information outperform traditional machine learning models based on fixed Node2Vec embeddings?
+
+The results also support RQ2 under the experimental conditions of this study. On the complete canonical graph, GraphSAGE achieved a mean Macro-F1 of 0.1108 ± 0.0091, compared with 0.0520 ± 0.0053 for Random Forest and 0.0497 ± 0.0000 for Logistic Regression. GraphSAGE outperformed Random Forest across all ten evaluation seeds in the full-graph comparison, with a paired Wilcoxon signed-rank test yielding p = 0.0020. The advantage became substantially larger in the connected-node sensitivity analysis, where GraphSAGE achieved a mean Macro-F1 of 0.3212 ± 0.0326, compared with 0.1324 ± 0.0124 for Random Forest and 0.1428 ± 0.0000 for Logistic Regression. GraphSAGE again outperformed Random Forest across all ten seeds in this connected-node condition (p = 0.0020). Approximately 78.29% of the complete test population consisted of isolated nodes, substantially limiting the neighbourhood information available to GraphSAGE in the full-graph experiment. The results therefore indicate that direct neighbourhood aggregation can provide predictive value beyond fixed Node2Vec representations, particularly when meaningful graph connectivity is available.

@@ -1,0 +1,4 @@
+comparison,metric,paired_seeds,left_mean,right_mean,mean_difference,median_difference,left_wins,ties,right_wins,wilcoxon_statistic,p_value
+GraphSAGE full graph vs Random Forest full graph,macro_f1,10,0.11082898803895307,0.0520213089615119,0.05880767907744118,0.06342679307379429,10,0,0,0.0,0.001953125
+GraphSAGE connected vs Random Forest connected,macro_f1,10,0.32115244535176163,0.1324134988954199,0.1887389464563418,0.18774169332455626,10,0,0,0.0,0.001953125
+Canonical graph vs Original graph,macro_f1,10,0.3248343006808831,0.17915677939991517,0.14567752128096795,0.14852997573009608,10,0,0,0.0,0.001953125

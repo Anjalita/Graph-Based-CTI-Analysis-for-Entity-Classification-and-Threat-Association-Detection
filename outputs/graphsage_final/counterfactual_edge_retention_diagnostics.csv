@@ -1,0 +1,3 @@
+condition,total_graph_edges,mapped_edges_before_cleaning,dropped_edges_unmapped_endpoint,self_loops_removed,unique_directed_edges_retained,edge_retention_percentage,total_graph_nodes,labelled_nodes_retained,unlabelled_or_unrecognised_nodes_excluded,connected_labelled_nodes
+original_graph,1094,1094,0,0,1094,100.0,12679,12679,0,1533
+canonical_graph_counterfactual,910,910,0,0,910,100.0,4050,4050,0,903

@@ -1,0 +1,7 @@
+dataset,role,use
+all.jsonl,Main complete CTI dataset,Knowledge Graph construction and global entity/relation analysis
+train.jsonl,Training split,Model training and baseline fitting
+validation.jsonl,Validation split,Model tuning and threshold selection
+test.jsonl,Test split,Final model evaluation
+cyber-threat-intelligence_all.csv,CSV version of CTI dataset,Cross-checking dataset structure and entity distribution
+Cyber-Threat-Intelligence-Custom-Data_new_processed.csv,Processed enriched dataset,Diagnosis and solution analysis

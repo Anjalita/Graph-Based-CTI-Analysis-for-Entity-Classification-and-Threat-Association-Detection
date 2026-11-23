@@ -1,0 +1,51 @@
+source_index,target_index,source_type,target_type,relation_type,label,association_probability,source_entity,target_entity
+3756,643,threat-actor,Infrastucture,UNOBSERVED_CANDIDATE,0,0.9999993,tropic trooper,command and control (c2) server
+3667,3742,threat-actor,threat-actor,UNOBSERVED_CANDIDATE,0,0.9999989,dragonok,sofacy group
+2477,3133,campaign,location,UNOBSERVED_CANDIDATE,0,0.9999989,credential phishing campaigns,philippines
+2428,640,attack-pattern,Infrastucture,UNOBSERVED_CANDIDATE,0,0.9999987,unauthenticated remote code execution (rce),c&c server
+2110,641,attack-pattern,Infrastucture,UNOBSERVED_CANDIDATE,0,0.99999857,credential harvesting,c2 server
+3758,3783,threat-actor,tools,UNOBSERVED_CANDIDATE,0,0.99999833,turla,anydeskmsi
+1415,3578,SOFTWARE,malware,UNOBSERVED_CANDIDATE,0,0.9999982,gnuboard content,trojanwin32cobeacona
+3717,648,threat-actor,Infrastucture,UNOBSERVED_CANDIDATE,0,0.999998,patchwork,public blog or social media post to retrieve an encrypted c&c configuration
+3681,2362,threat-actor,attack-pattern,UNOBSERVED_CANDIDATE,0,0.99999654,fin7,scrape memory
+10,3701,DOMAIN,threat-actor,UNOBSERVED_CANDIDATE,0,0.9999964,biosnews[]info,lockbit 20
+3328,902,malware,SHA2,UNOBSERVED_CANDIDATE,0,0.9999951,cyclops blink,0b9f605926df4ff190ddc6c11e0f5839bffe431a3ddfd90acde1fcd2f91dada3
+997,281,SHA2,FILEPATH,UNOBSERVED_CANDIDATE,0,0.9999949,472ea4929c5e0fb4e29597311ed90a14c57bc67fbf26f81a3aac042aa3dccb55,eventdll
+3819,3020,tools,location,UNOBSERVED_CANDIDATE,0,0.99999416,f5 bigip,france
+2474,3650,campaign,threat-actor,UNOBSERVED_CANDIDATE,0,0.9999931,coldriver,coldriver
+3428,3667,malware,threat-actor,UNOBSERVED_CANDIDATE,0,0.9999927,malware,dragonok
+3758,2825,threat-actor,identity,UNOBSERVED_CANDIDATE,0,0.9999925,turla,trend micro research
+2341,641,attack-pattern,Infrastucture,UNOBSERVED_CANDIDATE,0,0.99999106,remote code execution,c2 server
+2359,3439,attack-pattern,malware,UNOBSERVED_CANDIDATE,0,0.9999902,scan the local network,mimikatz
+3491,3272,malware,malware,UNOBSERVED_CANDIDATE,0,0.9999896,protux,biopass rat
+3645,648,threat-actor,Infrastucture,UNOBSERVED_CANDIDATE,0,0.9999895,callisto,public blog or social media post to retrieve an encrypted c&c configuration
+3647,3873,threat-actor,tools,UNOBSERVED_CANDIDATE,0,0.9999864,carbanak,php script
+3459,119,malware,DOMAIN,UNOBSERVED_CANDIDATE,0,0.9999814,njrat,twitck[]com
+3307,648,malware,Infrastucture,UNOBSERVED_CANDIDATE,0,0.9999809,citadel,public blog or social media post to retrieve an encrypted c&c configuration
+3648,650,threat-actor,Infrastucture,UNOBSERVED_CANDIDATE,0,0.9999721,charming kitten,server
+1335,3938,SOFTWARE,vulnerability,UNOBSERVED_CANDIDATE,0,0.99997175,azure cloud,authentication bypass vulnerability
+2387,648,attack-pattern,Infrastucture,UNOBSERVED_CANDIDATE,0,0.9999716,spear phishing,public blog or social media post to retrieve an encrypted c&c configuration
+2477,4000,campaign,vulnerability,UNOBSERVED_CANDIDATE,0,0.9999715,credential phishing campaigns,authentication bypass vulnerability (92570)
+2504,3414,campaign,malware,UNOBSERVED_CANDIDATE,0,0.99997044,sphinx,lilith rat
+3998,4026,vulnerability,vulnerability,UNOBSERVED_CANDIDATE,0,0.99996924,eternalblue,proxylogon
+3662,3927,threat-actor,tools,UNOBSERVED_CANDIDATE,0,0.999966,darkside operators,windows sysinternals psexec
+2470,3670,campaign,threat-actor,UNOBSERVED_CANDIDATE,0,0.9999635,campaigns,earth centaur
+3677,1441,threat-actor,SOFTWARE,UNOBSERVED_CANDIDATE,0,0.9999629,equation group,i2p
+3756,2495,threat-actor,campaign,UNOBSERVED_CANDIDATE,0,0.9999583,tropic trooper,plead
+3871,1485,tools,SOFTWARE,UNOBSERVED_CANDIDATE,0,0.99995196,pdq deploy,medoc
+2468,2474,campaign,campaign,UNOBSERVED_CANDIDATE,0,0.99994636,blank slate campaign,coldriver
+3443,641,malware,Infrastucture,UNOBSERVED_CANDIDATE,0,0.999936,miraigafgyt dropper,c2 server
+3555,3956,malware,vulnerability,UNOBSERVED_CANDIDATE,0,0.99993587,sysget,cve20170144
+2494,3881,campaign,tools,UNOBSERVED_CANDIDATE,0,0.999931,operation troy campaign,rclone
+2198,3288,attack-pattern,malware,UNOBSERVED_CANDIDATE,0,0.9999293,fake donation websites,c1222
+3326,3397,malware,malware,UNOBSERVED_CANDIDATE,0,0.9999287,cyberazov dos app,icedid banking trojan
+643,107,Infrastucture,DOMAIN,UNOBSERVED_CANDIDATE,0,0.99992776,command and control (c2) server,saverussia[]today
+346,648,FILEPATH,Infrastucture,UNOBSERVED_CANDIDATE,0,0.99992704,mpbd6d42dat,public blog or social media post to retrieve an encrypted c&c configuration
+3670,3759,threat-actor,threat-actor,UNOBSERVED_CANDIDATE,0,0.99992573,earth centaur,turla actors
+2342,3759,attack-pattern,threat-actor,UNOBSERVED_CANDIDATE,0,0.99992466,remote code execution (rce),turla actors
+3684,3452,threat-actor,malware,UNOBSERVED_CANDIDATE,0,0.9999145,ghostwriter,netwiredrc
+3801,107,tools,DOMAIN,UNOBSERVED_CANDIDATE,0,0.99991226,cobalt strike,saverussia[]today
+2499,3742,campaign,threat-actor,UNOBSERVED_CANDIDATE,0,0.9999119,shamoon 2 wave 2,sofacy group
+2271,648,attack-pattern,Infrastucture,UNOBSERVED_CANDIDATE,0,0.9999113,malicious emails,public blog or social media post to retrieve an encrypted c&c configuration
+2271,641,attack-pattern,Infrastucture,UNOBSERVED_CANDIDATE,0,0.9999087,malicious emails,c2 server
+3403,2676,malware,identity,UNOBSERVED_CANDIDATE,0,0.99990046,kantal,"ivan topor,"

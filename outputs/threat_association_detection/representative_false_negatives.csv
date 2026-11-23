@@ -1,0 +1,99 @@
+source_index,target_index,source_node_id,target_node_id,relation_type,source_type,target_type,label,association_probability,detected_association,correct_detection,source_entity,target_entity,source_entity_type,target_entity_type
+3975,1709,vulnerability::cve202027932,SOFTWARE::xnu kernel,has,vulnerability,SOFTWARE,1,2.6778546e-11,0,False,cve202027932,xnu kernel,vulnerability,SOFTWARE
+331,2099,FILEPATH::loadoerfini,attack-pattern::code injection,uses,FILEPATH,attack-pattern,1,6.0293465e-11,0,False,“loadoerfini”,code injection,FILEPATH,attack-pattern
+3351,3369,malware::enemybot,malware::gafgyt,variant-of,malware,malware,1,7.0667895e-11,0,False,enemybot,gafgyt,malware,malware
+2624,3106,identity::european embassy,location::moscow,located-at,identity,location,1,7.218275e-11,0,False,european embassy,moscow,identity,location
+3347,3345,malware::dyreza,malware::dyre,duplicate-of,malware,malware,1,7.477198e-11,0,False,dyreza,dyre,malware,malware
+2139,3870,attack-pattern::deploy malicious batch scripts,tools::pdq,uses,attack-pattern,tools,1,7.860526e-11,0,False,deploy malicious batch scripts,pdq,attack-pattern,tools
+1000,3618,SHA2::4979a10b81c41ecc0fc3a0f376ade766ce616d2301639f74e0277047cc40e3d6,malware::xorist ransomware,indicates,SHA2,malware,1,9.690638e-11,0,False,4979a10b81c41ecc0fc3a0f376ade766ce616d2301639f74e0277047cc40e3d6,xorist ransomware,SHA2,malware
+521,142,IPV4::151248115146,EMAIL::ladomfichisi1987@mailru,related-to,IPV4,EMAIL,1,1.0466613e-10,0,False,151248115146,ladomfichisi1987@mailru,IPV4,EMAIL
+2409,1614,attack-pattern::stolen accounts,SOFTWARE::taobao,related-to,attack-pattern,SOFTWARE,1,1.5130276e-10,0,False,stolen accounts,taobao,attack-pattern,SOFTWARE
+3895,1698,tools::shellcode,SOFTWARE::windows service,duplicate-of,tools,SOFTWARE,1,1.6486124e-10,0,False,shellcode,windows service,tools,SOFTWARE
+4034,3961,vulnerability::spectre,vulnerability::cve20175754,related-to,vulnerability,vulnerability,1,1.9920872e-10,0,False,spectre,cve20175753,vulnerability,vulnerability
+3981,1708,vulnerability::cve202130869,SOFTWARE::xnu,has,vulnerability,SOFTWARE,1,2.0512929e-10,0,False,cve202130869,xnu,vulnerability,SOFTWARE
+35,2475,DOMAIN::donatetoukraine[]com,campaign::come back alive campaign,related-to,DOMAIN,campaign,1,2.2071603e-10,0,False,donatetoukraine[]com,come back alive campaign,DOMAIN,campaign
+3661,2576,threat-actor::darkside,identity::colonial pipeline,targets,threat-actor,identity,1,2.2272818e-10,0,False,darkside,colonial pipeline,threat-actor,identity
+924,251,SHA2::1bc44eef75779e3ca1eefb8ff5a64807dbc942b1e4a2672d77b9f6928d292591,FILEPATH::conhostsexe,indicates,SHA2,FILEPATH,1,2.5009161e-10,0,False,1bc44eef75779e3ca1eefb8ff5a64807dbc942b1e4a2672d77b9f6928d292591,conhostsexe,SHA2,FILEPATH
+2506,3361,campaign::targeted attack campaigns,malware::formerfirstrat,uses,campaign,malware,1,6.2830224e-10,0,False,targeted attack campaigns,formerfirstrat,campaign,malware
+3834,4044,tools::icontrol rest framework,vulnerability::the vulnerability,has,tools,vulnerability,1,6.5252026e-10,0,False,icontrol rest framework,this vulnerability,tools,vulnerability
+2352,4044,attack-pattern::run arbitrary code on unpatched systems,vulnerability::the vulnerability,targets,attack-pattern,vulnerability,1,8.4079826e-10,0,False,run arbitrary code on unpatched systems,this vulnerability,attack-pattern,vulnerability
+691,1047,MD5::b826fb1253a52a3b53afa3b7543d7694,SHA2::6bedd1b0716fe7632188932451f75295346836545e6d2bfee1b56121e02ca110,related-to,MD5,SHA2,1,1.1078847e-09,0,False,b826fb1253a52a3b53afa3b7543d7694,6bedd1b0716fe7632188932451f75295346836545e6d2bfee1b56121e02ca110,MD5,SHA2
+417,644,FILEPATH::stage2exe,Infrastucture::discord’s content delivery network (cdn),beacons-to,FILEPATH,Infrastucture,1,1.2961529e-09,0,False,stage2exe,discord’s content delivery network (cdn),FILEPATH,Infrastucture
+3501,3254,malware::ransomwin32avoslockersmyxblnt,malware::avoslocker,duplicate-of,malware,malware,1,2.3963995e-09,0,False,ransomwin32avoslockersmyxblnt,avoslocker,malware,malware
+2497,1502,campaign::sandworm campaign,SOFTWARE::microsoft office,targets,campaign,SOFTWARE,1,2.9790357e-09,0,False,sandworm campaign,microsoft office,campaign,SOFTWARE
+3293,2398,malware::carbanak backdoor,attack-pattern::steal and delete cookies,uses,malware,attack-pattern,1,5.4001736e-09,0,False,carbanak backdoor,steal and delete cookies,malware,attack-pattern
+3228,3415,malware::abcd ransomware,malware::lockbit,duplicate-of,malware,malware,1,6.038594e-09,0,False,abcd ransomware,lockbit,malware,malware
+3454,2444,malware::new malware,attack-pattern::watering hole attack,uses,malware,attack-pattern,1,2.3863478e-08,0,False,new malware,wateringhole attacks,malware,attack-pattern
+2312,2850,attack-pattern::phishing,identity::ukrainian state administration employee,targets,attack-pattern,identity,1,2.6757654e-08,0,False,phishing,ukrainian state administration employee,attack-pattern,identity
+3881,1487,tools::rclone,SOFTWARE::mega cloud storage service,exfiltrates-to,tools,SOFTWARE,1,3.0478223e-08,0,False,rclone,mega cloud storage service,tools,SOFTWARE
+3454,2424,malware::new malware,attack-pattern::tricked into downloading,uses,malware,attack-pattern,1,3.7708293e-08,0,False,new malware,tricked into downloading,malware,attack-pattern
+2814,2403,identity::taomike,attack-pattern::steal sms messages,uses,identity,attack-pattern,1,5.626165e-08,0,False,taomike,steal sms messages,identity,attack-pattern
+2266,3384,attack-pattern::malicious attachments,malware::hancitor,delivers,attack-pattern,malware,1,5.9630906e-08,0,False,malicious attachment,hancitor,attack-pattern,malware
+3860,334,tools::nmap,FILEPATH::log4shellnse,uses,tools,FILEPATH,1,7.8564156e-08,0,False,nmap,log4shellnse,tools,FILEPATH
+3835,3989,tools::icontrolrest,vulnerability::cve20221388,has,tools,vulnerability,1,1.2199988e-07,0,False,icontrolrest,cve20221388,tools,vulnerability
+3351,3989,malware::enemybot,vulnerability::cve20221388,exploits,malware,vulnerability,1,1.4464939e-07,0,False,enemybot,cve20221388,malware,vulnerability
+3355,1609,malware::fake cyberazov dos app,SOFTWARE::stopwar app,impersonates,malware,SOFTWARE,1,1.5653325e-07,0,False,fake cyberazov dos app,stopwar app,malware,SOFTWARE
+3616,3421,malware::worminfokeya,malware::maikspy,related-to,malware,malware,1,1.931262e-07,0,False,worminfokeya,maikspy,malware,malware
+3386,3555,malware::hellobridge,malware::sysget,variant-of,malware,malware,1,2.822765e-07,0,False,hellobridge,sysget,malware,malware
+3546,2329,malware::stealthmutant,attack-pattern::process hollowing,uses,malware,attack-pattern,1,4.3317343e-07,0,False,stealthmutant,process hollowing,malware,attack-pattern
+3773,3922,threat-actor::winnti group,tools::windivert,uses,threat-actor,tools,1,7.7245056e-07,0,False,winnti group,windivert,threat-actor,tools
+2615,3010,identity::ecommerce online shops,location::european,located-at,identity,location,1,7.8081763e-07,0,False,ecommerce online shops,european,identity,location
+3559,653,malware::taomike sdk,Infrastucture::taomike controlled server,communicates-with,malware,Infrastucture,1,8.2902113e-07,0,False,taomike sdk,taomike controlled server,malware,Infrastucture
+392,3578,FILEPATH::sc3txt,malware::trojanwin32cobeaconbg,indicates,FILEPATH,malware,1,9.0663104e-07,0,False,sc3txt,trojanwin32cobeacona,FILEPATH,malware
+3591,3756,malware::usbferry,threat-actor::tropic troope,related-to,malware,threat-actor,1,9.122529e-07,0,False,usbferry,tropic trooper,malware,threat-actor
+3782,3857,tools::anydesk,tools::netscan,downloads,tools,tools,1,1.4513028e-06,0,False,anydesk,netscan,tools,tools
+3394,1505,malware::hyperscrape,SOFTWARE::microsoft outlook,targets,malware,SOFTWARE,1,1.5455564e-06,0,False,hyperscrape,microsoft outlook,malware,SOFTWARE
+3742,3009,threat-actor::sofacy group,location::europe,targets,threat-actor,location,1,1.592121e-06,0,False,sofacy group,europe,threat-actor,location
+3421,2032,malware::maikspy,URL::hxxp:fakeomegle[]com,communicates-with,malware,URL,1,1.6171407e-06,0,False,maikspy,hxxp:fakeomegle[]com,malware,URL
+2315,2678,attack-pattern::phishing campaign,identity::japanese hightech organization,targets,attack-pattern,identity,1,1.796815e-06,0,False,phishing campaigns,japanese hightech organization,attack-pattern,identity
+3290,1500,malware::capesand,SOFTWARE::microsoft internet explorer,exploits,malware,SOFTWARE,1,2.1204544e-06,0,False,capesand,microsoft internet explorer,malware,SOFTWARE
+3427,3816,malware::malicious script,tools::eccube framework,targets,malware,tools,1,2.6608518e-06,0,False,malicious scripts,eccube framework,malware,tools
+112,3550,DOMAIN::stopwarpro,malware::stopwarapk,hosts,DOMAIN,malware,1,2.710764e-06,0,False,stopwarpro,stopwarapk,DOMAIN,malware
+3919,3832,tools::web shell,tools::html uploading file,consists-of,tools,tools,1,3.1016366e-06,0,False,web shell,html uploading file,tools,tools
+3394,1713,malware::hyperscrape,SOFTWARE::yahoo,targets,malware,SOFTWARE,1,3.471339e-06,0,False,hyperscrape,yahoo!,malware,SOFTWARE
+3681,2085,threat-actor::fin7,attack-pattern::blending in with existing network traffic,uses,threat-actor,attack-pattern,1,3.5555981e-06,0,False,fin7,blending in with existing network traffic,threat-actor,attack-pattern
+1036,3576,SHA2::654c7021a4482da21e149ded58643b279ffbce66badf1a0a7fc3551acd607312,malware::trojanw97mconfuciusc,indicates,SHA2,malware,1,3.7530924e-06,0,False,654c7021a4482da21e149ded58643b279ffbce66badf1a0a7fc3551acd607312,trojanw97mconfuciusb,SHA2,malware
+3600,2663,malware::vpnfilter,identity::huawei,targets,malware,identity,1,5.6334793e-06,0,False,vpnfilter,huawei,malware,identity
+3600,2835,malware::vpnfilter,identity::ubiquiti,targets,malware,identity,1,5.6334793e-06,0,False,vpnfilter,ubiquiti,malware,identity
+2764,2443,identity::prodemocracy labor and political group,attack-pattern::watering hole,targets,identity,attack-pattern,1,6.2324907e-06,0,False,prodemocracy labor and political group,watering hole,identity,attack-pattern
+3657,2961,threat-actor::curious gorge,location::central asia,targets,threat-actor,location,1,6.252243e-06,0,False,curious gorge,central asia,threat-actor,location
+3428,1483,malware::malware,SOFTWARE::mattermost,uses,malware,SOFTWARE,1,6.5936765e-06,0,False,malware,mattermost,malware,SOFTWARE
+1242,3382,SHA2::ee63b49aca1495a170ea7273316385b606f3fd2df1e48e9f4de0f241d98bd055,malware::hacktoolwin32catlikea,indicates,SHA2,malware,1,8.237031e-06,0,False,ee63b49aca1495a170ea7273316385b606f3fd2df1e48e9f4de0f241d98bd055,hacktoolwin32catlikea,SHA2,malware
+3717,3334,threat-actor::patchwork,malware::delphi malware,uses,threat-actor,malware,1,1.2043999e-05,0,False,patchwork,delphi malware,threat-actor,malware
+3651,2193,threat-actor::confucius,attack-pattern::exploiting memory corruption,uses,threat-actor,attack-pattern,1,1.349513e-05,0,False,confucius,exploiting memory corruption,threat-actor,attack-pattern
+3650,2113,threat-actor::coldriver,attack-pattern::credential phishing emails,uses,threat-actor,attack-pattern,1,1.471557e-05,0,False,coldriver,send credential phishing emails,threat-actor,attack-pattern
+3651,3128,threat-actor::confucius,location::pakistan,targets,threat-actor,location,1,1.5772826e-05,0,False,confucius,pakistani,threat-actor,location
+3717,2277,threat-actor::patchwork,attack-pattern::malwarebased attacks,uses,threat-actor,attack-pattern,1,1.6495218e-05,0,False,patchwork,malwarebased attacks,threat-actor,attack-pattern
+3650,2112,threat-actor::coldriver,attack-pattern::credential phishing campaigns,uses,threat-actor,attack-pattern,1,2.4292316e-05,0,False,coldriver,credential phishing campaigns,threat-actor,attack-pattern
+202,331,FILEPATH::bkdr64winntionm,FILEPATH::loadoerfini,related-to,FILEPATH,FILEPATH,1,2.5054504e-05,0,False,bkdr64winntionm,“loadoerfini”,FILEPATH,FILEPATH
+3684,2230,threat-actor::ghostwriter,attack-pattern::hosting credential phishing landing pages on compromised sites,uses,threat-actor,attack-pattern,1,2.9077646e-05,0,False,ghostwriter,hosting credential phishing landing pages on compromised sites,threat-actor,attack-pattern
+3648,2672,threat-actor::charming kitten,identity::iranian government,attributed-to,threat-actor,identity,1,3.056909e-05,0,False,charming kitten,iranian government,threat-actor,identity
+2758,3206,identity::political and military targets,location::ukrainian,located-at,identity,location,1,3.2243e-05,0,False,political and military targets,ukrainian,identity,location
+3351,3990,malware::enemybot,vulnerability::cve202222972,exploits,malware,vulnerability,1,3.2513854e-05,0,False,enemybot,cve202222963,malware,vulnerability
+3647,2441,threat-actor::carbanak,attack-pattern::using stolen password hashes,uses,threat-actor,attack-pattern,1,3.3765486e-05,0,False,carbanak,using stolen password hashes,threat-actor,attack-pattern
+3767,1450,threat-actor::urpage,SOFTWARE::inpage,targets,threat-actor,SOFTWARE,1,3.4247354e-05,0,False,urpage,inpage,threat-actor,SOFTWARE
+3264,3000,malware::bad rabbit,location::eastern european,targets,malware,location,1,3.5745827e-05,0,False,bad rabbit,western european,malware,location
+1666,3990,SOFTWARE::vrealize automation,vulnerability::cve202222972,has,SOFTWARE,vulnerability,1,0.00014567688,0,False,vrealize automation,cve202222963,SOFTWARE,vulnerability
+1605,3990,SOFTWARE::spring cloud function 317 and 323,vulnerability::cve202222972,has,SOFTWARE,vulnerability,1,0.00014567688,0,False,spring cloud function 317 and 323,cve202222963,SOFTWARE,vulnerability
+3603,2247,malware::wannacry,attack-pattern::kernel apc attack,uses,malware,attack-pattern,1,0.0001465007,0,False,wannacry,kernel apc attacks,malware,attack-pattern
+1133,3260,SHA2::a7c4dac7176e291bd2aba860e1aa301fb5f7d880794f493f2dea0982e2b7eb31,malware::backdoorwin32biopassa,indicates,SHA2,malware,1,0.00015655067,0,False,a7c4dac7176e291bd2aba860e1aa301fb5f7d880794f493f2dea0982e2b7eb31,backdoorwin64biopassa,SHA2,malware
+1169,3260,SHA2::bf4f50979b7b29f2b6d192630b8d7b76adb9cb65157a1c70924a47bf519c4edd,malware::backdoorwin32biopassa,indicates,SHA2,malware,1,0.00015655067,0,False,bf4f50979b7b29f2b6d192630b8d7b76adb9cb65157a1c70924a47bf519c4edd,backdoorwin64biopassa,SHA2,malware
+3298,3407,malware::chessmaster,malware::koadic,downloads,malware,malware,1,0.00018492309,0,False,chessmaster,koadic,malware,malware
+3437,3775,malware::microbackdoor,threat-actor::x4k,authored-by,malware,threat-actor,1,0.00019249988,0,False,microbackdoor,x4k,malware,threat-actor
+3421,1792,malware::maikspy,TIME::april 2015,related-to,malware,TIME,1,0.00021692118,0,False,maikspy,april 2017,malware,TIME
+1604,3990,SOFTWARE::spring cloud,vulnerability::cve202222972,has,SOFTWARE,vulnerability,1,0.00022457755,0,False,spring cloud,cve202222963,SOFTWARE,vulnerability
+3425,3651,malware::malcve201701992,threat-actor::confucius,authored-by,malware,threat-actor,1,0.00022712671,0,False,malcve201701992,confucius,malware,threat-actor
+3485,3667,malware::poisonivy,threat-actor::dragonok,authored-by,malware,threat-actor,1,0.00028459175,0,False,poisonivy,dragonok,malware,threat-actor
+3696,3775,threat-actor::l4ckyguy,threat-actor::x4k,duplicate-of,threat-actor,threat-actor,1,0.00032895853,0,False,l4ckyguy,x4k,threat-actor,threat-actor
+3763,3775,threat-actor::unk0w,threat-actor::x4k,duplicate-of,threat-actor,threat-actor,1,0.00032895853,0,False,unk0w,x4k,threat-actor,threat-actor
+428,1169,FILEPATH::test4exe,SHA2::bf4f50979b7b29f2b6d192630b8d7b76adb9cb65157a1c70924a47bf519c4edd,duplicate-of,FILEPATH,SHA2,1,0.00048812368,0,False,test3exe,bf4f50979b7b29f2b6d192630b8d7b76adb9cb65157a1c70924a47bf519c4edd,FILEPATH,SHA2
+428,1133,FILEPATH::test4exe,SHA2::a7c4dac7176e291bd2aba860e1aa301fb5f7d880794f493f2dea0982e2b7eb31,duplicate-of,FILEPATH,SHA2,1,0.00048812368,0,False,test3exe,a7c4dac7176e291bd2aba860e1aa301fb5f7d880794f493f2dea0982e2b7eb31,FILEPATH,SHA2
+132,531,DOMAIN::xn90a5ai[]com,IPV4::164[]68[]114[]29,related-to,DOMAIN,IPV4,1,0.00068430183,0,False,xn90a5ai[]com,164[]68[]114[]29,DOMAIN,IPV4
+3379,3159,malware::glupteba,location::russia’,located-at,malware,location,1,0.00079093256,0,False,glupteba,russian,malware,location
+3753,3790,threat-actor::threat actor,tools::bitsadmin,uses,threat-actor,tools,1,0.001064848,0,False,threat actors,bitsadmin,threat-actor,tools
+3249,3097,malware::anubisspy,location::middle eastern,targets,malware,location,1,0.0029592603,0,False,anubisspy,middle eastern,malware,location
+294,1177,FILEPATH::flashplayerinstallcnexe,SHA2::c47fabc47806961f908bed37d6b1bbbfd183d564a2d01b7cae87bd95c20ff8a5,duplicate-of,FILEPATH,SHA2,1,0.007519722,0,False,flashplayerppinstallcnexe,c47fabc47806961f908bed37d6b1bbbfd183d564a2d01b7cae87bd95c20ff8a5,FILEPATH,SHA2
+4044,3989,vulnerability::the vulnerability,vulnerability::cve20221388,duplicate-of,vulnerability,vulnerability,1,0.007978679,0,False,this vulnerability,cve20221388,vulnerability,vulnerability
+2601,3205,identity::defense contractor,location::ukraine,located-at,identity,location,1,0.010180728,0,False,defense contractor,ukraine,identity,location
+3756,2708,threat-actor::tropic troope,identity::military’s,targets,threat-actor,identity,1,0.012154009,0,False,tropic trooper,military’s,threat-actor,identity
+3476,3956,malware::petya,vulnerability::cve20170144,exploits,malware,vulnerability,1,0.03584504,0,False,petya,cve20170144,malware,vulnerability

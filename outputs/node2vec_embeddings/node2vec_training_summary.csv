@@ -1,0 +1,2 @@
+graph_version,num_nodes,num_edges,embedding_dim,walk_length,context_size,walks_per_node,p,q,batch_size,learning_rate,epochs,seed,final_loss,training_time_seconds,link_prediction_auc,link_prediction_ap
+canonical_v4_final,4050,910,128,20,10,10,1.0,1.0,128,0.01,50,42,0.723353860899806,717.2439754009247,0.9933582900615867,0.9928825272675759

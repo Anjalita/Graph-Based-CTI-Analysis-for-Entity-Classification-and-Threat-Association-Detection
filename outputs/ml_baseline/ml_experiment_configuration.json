@@ -1,0 +1,14 @@
+{
+    "seed": 42,
+    "graph_version": "canonical_v4_final",
+    "num_nodes": 4050,
+    "embedding_dimensions": 128,
+    "num_entity_types": 20,
+    "train_size": 2835,
+    "validation_size": 607,
+    "test_size": 608,
+    "train_proportion": 0.7,
+    "validation_proportion": 0.14987654320987653,
+    "test_proportion": 0.15012345679012346,
+    "best_model_by_validation_macro_f1": "Logistic Regression"
+}

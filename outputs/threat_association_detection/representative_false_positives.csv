@@ -1,0 +1,4 @@
+source_index,target_index,source_node_id,target_node_id,relation_type,source_type,target_type,label,association_probability,detected_association,correct_detection,source_entity,target_entity,source_entity_type,target_entity_type
+3757,2815,,,NO_EDGE,threat-actor,identity,0,0.99143314,1,False,tsar team,technology companies,threat-actor,identity
+3719,3849,,,NO_EDGE,threat-actor,tools,0,0.9630916,1,False,primitive bear,mimikatz,threat-actor,tools
+3446,3772,,,NO_EDGE,malware,threat-actor,0,0.80864936,1,False,nerapack,winnti,malware,threat-actor

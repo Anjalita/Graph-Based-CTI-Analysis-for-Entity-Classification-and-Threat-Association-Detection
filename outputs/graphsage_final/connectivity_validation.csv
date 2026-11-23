@@ -1,0 +1,2 @@
+connected_from_model_edge_index,connected_from_embedding_csv_degree,connectivity_definition_mismatches,test_nodes,connected_test_nodes,isolated_test_nodes,isolated_test_percentage
+903,903,0,608,132,476,78.28947448730469

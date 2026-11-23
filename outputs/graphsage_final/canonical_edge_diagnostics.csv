@@ -1,0 +1,2 @@
+condition,total_graph_edges,mapped_edges_before_cleaning,dropped_edges_unmapped_endpoint,self_loops_removed,unique_directed_edges_retained,edge_retention_percentage
+canonical_graph,910,910,0,0,910,100.0

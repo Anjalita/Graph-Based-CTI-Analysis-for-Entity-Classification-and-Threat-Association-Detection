@@ -1,0 +1,2 @@
+total_canonical_nodes,connected_canonical_nodes,test_nodes,connected_test_nodes,isolated_test_nodes,isolated_test_percentage,connectivity_definition_mismatches
+4050,903,608,132,476,78.28947448730469,0

@@ -1,0 +1,3 @@
+metric,comparison,mean_difference,graphsage_wins,wilcoxon_statistic,p_value
+Average Precision,Directed GraphSAGE vs Logistic Regression,-0.03610019347193063,0,0.0,0.001953125
+F1,Directed GraphSAGE vs Logistic Regression,-0.3451374330996536,0,0.0,0.001953125
